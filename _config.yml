@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jizhou Guo"
-description              : "Jizhou Guo's Homepage"
+description              : ""
 repository               : "Aster2024/Aster2024.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : Aster2024 # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
