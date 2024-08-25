@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am now a 3rd-year undergraduate at <strong>Shanghai Jiao Tong University</strong>. I am currently an exchange student at <strong>the University of Hong Kong</strong>. Before that, I was an research intern at <strong>National University of Singapore</strong> and worked with <a href="https://scholar.google.com/citations?user=QjehmgkAAAAJ&hl=en"> Dr. Zhaomin Wu </a>, supervised by <a href="https://www.comp.nus.edu.sg/~hebs/"> Prof. Bingsheng He </a>. Before that, I was an undergraduate researcher at Shanghai Jiao Tong University working with <a href="https://zhxie.site/"> Mr. Zhihui Xie </a>, mentored by <a href="https://shuaili8.github.io/"> Prof. Shuai Li </a> and <a href="https://scholar.google.com/citations?user=6-ARmXsAAAAJ&hl=zh-CN"> Dr. Tong Yu </a>. Previously, I was also fortunate to work with <a href="https://bcmi.sjtu.edu.cn/~blu/"> Prof. Bao-Liang Lu </a> and <a href="https://weilongzheng.github.io/"> Prof. Wei-Long Zheng </a>
+Hi! I am now a 3rd-year undergraduate at <strong>Zhiyuan College (Honor, Top 10%), Shanghai Jiao Tong University</strong>. I am currently an exchange student at <strong>the University of Hong Kong</strong>. Before that, I was an research intern at <strong>National University of Singapore</strong> and worked with <a href="https://scholar.google.com/citations?user=QjehmgkAAAAJ&hl=en"> Dr. Zhaomin Wu </a>, supervised by <a href="https://www.comp.nus.edu.sg/~hebs/"> Prof. Bingsheng He </a>. Before that, I was an undergraduate researcher at Shanghai Jiao Tong University working with <a href="https://zhxie.site/"> Mr. Zhihui Xie </a>, mentored by <a href="https://shuaili8.github.io/"> Prof. Shuai Li </a> and <a href="https://scholar.google.com/citations?user=6-ARmXsAAAAJ&hl=zh-CN"> Dr. Tong Yu </a>. Previously, I was also fortunate to work with <a href="https://bcmi.sjtu.edu.cn/~blu/"> Prof. Bao-Liang Lu </a> and <a href="https://weilongzheng.github.io/"> Prof. Wei-Long Zheng </a>
 
 Ny research interest lies Large Language Models and AI for Science. Please feel free to reach out if you would like to chat!
 
@@ -26,31 +26,58 @@ Ny research interest lies Large Language Models and AI for Science. Please feel 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/internal_consistency.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Calibrating Reasoning in Language Models with Internal Consistency](https://arxiv.org/pdf/2405.18711)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Zhihui Xie, **Jizhou Guo**, Tong Yu, Shuai Li
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Investigate CoT reasoning in LLMs through the lens of internal representations. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/eeg.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+EEG-based Emotion Recognition in an Olfactory Stimulation Paradigm
+
+Jiaqi Wang, Zhengting Chen, Yifan Wu, Keyan Huang, Dian Zhang, **Jizhou Guo**, Xinglan Liu, Dan Peng, Weilong Zheng, Baoliang Lu
+
+- Use deep learning models to predict human emotions from EEG signals under olfactory stimuli.
+
+</div>
+</div>
+
+# 💻 Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/AD_bio.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Novel biological dressing for atopic dermatitis
+
+- Proposed a kind of bio band-aid and used MATLAB to emulate the diffusion process.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/spiderman.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Palm liveness detection
+
+- Conduct palm liveness detection.
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.12* Second-Class Academic Scholarship, SJTU (<strong>Top 5%</strong>).
+- *2023.12* Zhiyuan Honors Scholarship, SJTU.
+- *2023.05* <strong> Gold medal </strong> in the 2023 China Collegiate Programming Contest (<strong>CCPC</strong>) National Invitational Contest (Hunan).  
+- *2023.05* <strong> Gold medal </strong> in the 2023 International Collegiate Programming Contest (<strong>ICPC</strong>) Xi'an Invitational Contest.
+- *2022.12* <strong> Gold medal </strong> in the 2022 International Collegiate Programming Contest (<strong>ICPC</strong>) Asia Hangzhou Regional Contest (<strong>Ranked 8th nationwide</strong>).
+- *2022.12* Zhiyuan Honors Scholarship, SJTU.
+- *2021.07* <strong> Silver medal </strong> in National Olympiad in Informatics (<strong>NOI</strong>).
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
