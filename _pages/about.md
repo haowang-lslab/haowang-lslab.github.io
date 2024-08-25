@@ -21,7 +21,7 @@ Hi! I am a 3rd-year undergraduate at <strong>Zhiyuan College (Honor, Top 10%), S
 I am currently an exchange student at <strong>the University of Hong Kong</strong>.
 My academic journey has been enriched by several research experiences.
 Most recently, I was a research intern at <strong>National University of Singapore</strong>, collaborating with <a href="https://scholar.google.com/citations?user=QjehmgkAAAAJ">Dr. Zhaomin Wu</a> under the supervision of <a href="https://www.comp.nus.edu.sg/~hebs/">Prof. Bingsheng He</a>.
-Before that, I was an undergraduate researcher at Shanghai Jiao Tong University working alongside <a href="https://zhxie.site/">Mr. Zhihui Xie</a>, mentored by <a href="https://shuaili8.github.io/">Prof. Shuai Li</a> and <a href="https://scholar.google.com/citations?user=6-ARmXsAAAAJ">Dr. Tong Yu</a>.
+Before that, I worked as an undergraduate researcher at Shanghai Jiao Tong University, working alongside <a href="https://zhxie.site/">Mr. Zhihui Xie</a>, mentored by <a href="https://shuaili8.github.io/">Prof. Shuai Li</a> and <a href="https://scholar.google.com/citations?user=6-ARmXsAAAAJ">Dr. Tong Yu</a>.
 I've also had the privilege of collaborating with <a href="https://bcmi.sjtu.edu.cn/~blu/">Prof. Bao-Liang Lu</a> and <a href="https://weilongzheng.github.io/">Prof. Wei-Long Zheng</a>.
 
 My research interests are primarily focused on Large Language Models and AI for Science. I'm always eager to engage in discussions about these topics, so please feel free to reach out if you'd like to chat!
