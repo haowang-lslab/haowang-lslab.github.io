@@ -9,14 +9,13 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Projects"
+    url: "/#-projects"
+
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "CV (PDF)"
+    url: "/assets/pdf/CV_Jizhou_Guo.pdf"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
 
-  - title: "Internships"
-    url: "/#-internships"
