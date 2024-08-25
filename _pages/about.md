@@ -17,14 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi! I am now a 3rd-year undergraduate at <strong>Shanghai Jiao Tong University</strong>. I am currently an exchange student at <strong>the University of Hong Kong</strong>. Before that, I was an research intern at <strong>National University of Singapore</strong> and worked with <a href="https://scholar.google.com/citations?user=QjehmgkAAAAJ&hl=en"> Dr. Zhaomin Wu </a>, supervised by <a href="https://www.comp.nus.edu.sg/~hebs/"> Prof. Bingsheng He </a>. Before that, I was an undergraduate researcher at Shanghai Jiao Tong University working with <a href="https://zhxie.site/"> Mr. Zhihui Xie </a>, mentored by <a href="https://shuaili8.github.io/"> Prof. Shuai Li </a> and <a href="https://scholar.google.com/citations?user=6-ARmXsAAAAJ&hl=zh-CN"> Dr. Tong Yu </a>. Previously, I was also fortunate to work with <a href="https://bcmi.sjtu.edu.cn/~blu/"> Prof. Bao-Liang Lu </a> and <a href="https://weilongzheng.github.io/"> Prof. Wei-Long Zheng </a>
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+Ny research interest lies Large Language Models and AI for Science. Please feel free to reach out if you would like to chat!
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05*: &nbsp; Our work <a href="https://arxiv.org/abs/2405.18711">Calibrating Reasoning in Language Models with Internal Consistency </a> is on arXiv!
 
 # 📝 Publications 
 
