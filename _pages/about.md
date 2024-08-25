@@ -26,7 +26,7 @@ Ny research interest lies Large Language Models and AI for Science. Please feel 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/internal_consistency.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/internal_consistency.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Calibrating Reasoning in Language Models with Internal Consistency](https://arxiv.org/pdf/2405.18711)
@@ -37,7 +37,7 @@ Zhihui Xie, **Jizhou Guo**, Tong Yu, Shuai Li
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/eeg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/eeg.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 EEG-based Emotion Recognition in an Olfactory Stimulation Paradigm
