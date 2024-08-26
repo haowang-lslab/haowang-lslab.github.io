@@ -61,6 +61,7 @@ Jiaqi Wang, Zhengting Chen, Yifan Wu, Keyan Huang, Dian Zhang, **Jizhou Guo**, X
 
 Novel biological dressing for atopic dermatitis
 
+- Work done at Quantitative Biology Summer School of Center for Life Sciences, Peking University on 2023.07.
 - Proposed a kind of bio band-aid and used MATLAB to emulate the diffusion process.
 
 </div>
@@ -71,6 +72,7 @@ Novel biological dressing for atopic dermatitis
 
 Palm liveness detection
 
+- Work done at Tencent Spark Project of Tencent Corporation on 2022.08.
 - Conduct palm liveness detection.
 
 </div>
