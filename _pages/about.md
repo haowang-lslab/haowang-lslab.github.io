@@ -18,7 +18,6 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi! I am a 3rd-year undergraduate at <strong>Zhiyuan College (Honor, Top 10%), Shanghai Jiao Tong University</strong>.
-I am currently an exchange student at <strong>the University of Hong Kong</strong>.
 My academic journey has been enriched by several research experiences.
 Most recently, I was a research intern at <strong>National University of Singapore</strong>, collaborating with <a href="https://scholar.google.com/citations?user=QjehmgkAAAAJ">Dr. Zhaomin Wu</a> under the supervision of <a href="https://www.comp.nus.edu.sg/~hebs/">Prof. Bingsheng He</a>.
 Before that, I worked as an undergraduate researcher at Shanghai Jiao Tong University, working alongside <a href="https://zhxie.site/">Mr. Zhihui Xie</a>, mentored by <a href="https://shuaili8.github.io/">Prof. Shuai Li</a> and <a href="https://scholar.google.com/citations?user=6-ARmXsAAAAJ">Dr. Tong Yu</a>.
