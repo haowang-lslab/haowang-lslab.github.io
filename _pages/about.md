@@ -83,7 +83,7 @@ Palm liveness detection
 - *2023.12* Second-Class Academic Scholarship, SJTU (<strong>Top 5%</strong>).
 - *2023.12* Zhiyuan Honors Scholarship, SJTU.
 - *2023.12* <strong> Third prize </strong> in Mathematics competition of Chinese College Students (Shanghai).
-- *2023.08* <strong> Gold medal </strong> in Astar Programming Contest (Shanghai region).
+- *2023.08* <strong> Gold medal </strong> in Astar Programming Contest (Shanghai region) (<strong>Ranked 2nd in Shanghai</strong>).
 - *2023.05* <strong> Gold medal </strong> in 2023 China Collegiate Programming Contest (<strong>CCPC</strong>) National Invitational Contest (Hunan).  
 - *2023.05* <strong> Gold medal </strong> in 2023 International Collegiate Programming Contest (<strong>ICPC</strong>) Xi'an Invitational Contest.
 - *2022.12* <strong> Gold medal </strong> in 2022 International Collegiate Programming Contest (<strong>ICPC</strong>) Asia Hangzhou Regional Contest (<strong>Ranked 8th nationwide</strong>).
