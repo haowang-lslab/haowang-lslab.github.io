@@ -39,7 +39,7 @@ My research interests are primarily focused on Large Language Models and AI for 
 
 Zhihui Xie, **Jizhou Guo**, Tong Yu, Shuai Li
 
-- Developed a novel "internal consistency" approach to calibrate reasoning in Large Language Models (LLMs).
+- Developed a novel "internal consistency" approach to calibrate reasoning in Large Language Models (LLMs), resulting in a significant boost in reasoning performance.
 - Conducted in-depth analysis of Chain-of-Thought (CoT) reasoning in LLMs through the lens of internal representations. 
 </div>
 </div>
