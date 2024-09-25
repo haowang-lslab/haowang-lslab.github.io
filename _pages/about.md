@@ -39,7 +39,8 @@ My research interests are primarily focused on Large Language Models and AI for 
 
 Zhihui Xie, **Jizhou Guo**, Tong Yu, Shuai Li
 
-- Investigate CoT reasoning in LLMs through the lens of internal representations. 
+- Developed a novel "internal consistency" approach to calibrate reasoning in Large Language Models (LLMs).
+- Conducted in-depth analysis of Chain-of-Thought (CoT) reasoning in LLMs through the lens of internal representations. 
 </div>
 </div>
 
@@ -50,7 +51,8 @@ EEG-based Emotion Recognition in an Olfactory Stimulation Paradigm
 
 Jiaqi Wang, Zhengting Chen, Yifan Wu, Keyan Huang, Dian Zhang, **Jizhou Guo**, Xinglan Liu, Dan Peng, Weilong Zheng, Baoliang Lu
 
-- Use deep learning models to predict human emotions from EEG signals under olfactory stimuli.
+- Designed and executed experiments to predict human emotions from EEG signals under various olfactory stimuli.
+- Implemented and compared multiple deep learning models (MLP, CNN, Transformer) with Domain-Adversarial Neural Networks (DANN).
 
 </div>
 </div>
@@ -63,7 +65,7 @@ Jiaqi Wang, Zhengting Chen, Yifan Wu, Keyan Huang, Dian Zhang, **Jizhou Guo**, X
 Novel biological dressing for atopic dermatitis
 
 - Work done at Quantitative Biology Summer School of Center for Life Sciences, Peking University on 2023.07.
-- Proposed a kind of bio band-aid and used MATLAB to emulate the diffusion process.
+- Conceptualized and simulated a novel bio-responsive bandage using MATLAB, modeling drug diffusion processes for optimized wound healing.
 
 </div>
 </div>
@@ -74,7 +76,7 @@ Novel biological dressing for atopic dermatitis
 Palm liveness detection
 
 - Work done at Tencent Spark Project of Tencent Corporation on 2022.08.
-- Conduct palm liveness detection.
+- Engineered a robust palm liveness detection system.
 
 </div>
 </div>
