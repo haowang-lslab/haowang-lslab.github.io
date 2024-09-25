@@ -80,7 +80,7 @@ Palm liveness detection
 </div>
 
 # 🎖 Honors and Awards
-- *2023.12* Second-Class Academic Scholarship, SJTU (<strong>Top 5%</strong>).
+- *2023.12* Second-Class Academic Scholarship, SJTU (<strong>Top 5%, ranked 2nd overall</strong>).
 - *2023.12* Zhiyuan Honors Scholarship, SJTU.
 - *2023.12* <strong> Third prize </strong> in Mathematics competition of Chinese College Students (Shanghai).
 - *2023.09* <strong> First prize </strong> in Shanghai Collegiate Programming Contest (<strong>Ranked 2nd in Shanghai</strong>).
