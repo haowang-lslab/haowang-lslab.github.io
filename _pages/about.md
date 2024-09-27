@@ -28,11 +28,12 @@ Besides research, I've excelled in competitive programming, winning awards in OI
 My research interests are primarily focused on Large Language Models and AI for Science. I'm always eager to engage in discussions about these topics, so please feel free to reach out if you'd like to chat!
 
 # 🔥 News
+- *2024.09*: &nbsp; Our work <a href="https://arxiv.org/abs/2405.18711">Calibrating Reasoning in Language Models with Internal Consistency </a> is accepted to NeurIPS 2024!
 - *2024.05*: &nbsp; Our work <a href="https://arxiv.org/abs/2405.18711">Calibrating Reasoning in Language Models with Internal Consistency </a> is on arXiv!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/internal_consistency.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/internal_consistency.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Calibrating Reasoning in Language Models with Internal Consistency](https://arxiv.org/pdf/2405.18711)
@@ -82,6 +83,7 @@ Palm liveness detection
 </div>
 
 # 🎖 Honors and Awards
+- *2023.09* Merit Student in the Student Community (<strong>Among 12 SJTU undergraduate and graduate recipients</strong>)
 - *2023.12* Second-Class Academic Scholarship, SJTU (<strong>Top 5%, ranked 2nd overall</strong>).
 - *2023.12* Zhiyuan Honors Scholarship, SJTU.
 - *2023.12* <strong> Third prize </strong> in Mathematics competition of Chinese College Students (Shanghai).
