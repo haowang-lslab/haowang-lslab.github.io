@@ -28,7 +28,7 @@ Besides research, I've excelled in competitive programming, winning awards in OI
 My research interests are primarily focused on Large Language Models and AI for Science. I'm always eager to engage in discussions about these topics, so please feel free to reach out if you'd like to chat!
 
 # 🔥 News
-- *2024.09*: &nbsp; Our work <a href="https://arxiv.org/abs/2405.18711">Calibrating Reasoning in Language Models with Internal Consistency </a> is accepted to NeurIPS 2024!
+- *2024.09*: &nbsp; Our work <a href="https://arxiv.org/abs/2405.18711">Calibrating Reasoning in Language Models with Internal Consistency </a> is accepted to NeurIPS 2024! 🎉
 - *2024.05*: &nbsp; Our work <a href="https://arxiv.org/abs/2405.18711">Calibrating Reasoning in Language Models with Internal Consistency </a> is on arXiv!
 
 # 📝 Publications 
