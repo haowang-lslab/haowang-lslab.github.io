@@ -40,7 +40,8 @@ My research interests are primarily focused on Large Language Models and AI for 
 [Model-Based Differentially Private Knowledge Transfer for Large Language Models](https://arxiv.org/abs/2410.10481)
 
 Zhaomin Wu*, **Jizhou Guo**\*, Junyi Hou, Bingsheng He, Lixin Fan, Qiang Yang
-(<sup>*</sup> Equal contribution)
+
+<small>(<sup>*</sup> Equal contribution)</small>
 
 - Proposed **Llamdex**, a novel framework that integrates privacy-preserving, domain-specific models into LLMs.
 - Demonstrated significant performance gains in domain-specific tasks, with up to 26% accuracy improvement while maintaining differential privacy guarantees.
