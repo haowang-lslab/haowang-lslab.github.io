@@ -28,10 +28,26 @@ Besides research, I've excelled in competitive programming, winning awards in OI
 My research interests are primarily focused on Large Language Models and AI for Science. I'm always eager to engage in discussions about these topics, so please feel free to reach out if you'd like to chat!
 
 # 🔥 News
+- *2024.10*: &nbsp; Our work <a href="https://arxiv.org/abs/2410.10481">Model-Based Differentially Private Knowledge Transfer for Large Language Models</a> is on arXiv!
 - *2024.09*: &nbsp; Our work <a href="https://arxiv.org/abs/2405.18711">Calibrating Reasoning in Language Models with Internal Consistency </a> is accepted to NeurIPS 2024! 🎉
 - *2024.05*: &nbsp; Our work <a href="https://arxiv.org/abs/2405.18711">Calibrating Reasoning in Language Models with Internal Consistency </a> is on arXiv!
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/dp_knowledge_transfer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Model-Based Differentially Private Knowledge Transfer for Large Language Models](https://arxiv.org/abs/2410.10481)
+
+Zhaomin Wu*, **Jizhou Guo**\*, Junyi Hou, Bingsheng He, Lixin Fan, Qiang Yang
+(<sup>*</sup> Equal contribution)
+
+- Proposed **Llamdex**, a novel framework that integrates privacy-preserving, domain-specific models into LLMs.
+- Demonstrated significant performance gains in domain-specific tasks, with up to 26% accuracy improvement while maintaining differential privacy guarantees.
+- Achieved comparable inference efficiency to base LLMs while enhancing domain-specific capabilities.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/internal_consistency.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
