@@ -33,6 +33,7 @@ My research interests are primarily focused on Large Language Models and AI for 
 - *2024.05*: &nbsp; Our work <a href="https://arxiv.org/abs/2405.18711">Calibrating Reasoning in Language Models with Internal Consistency </a> is on arXiv!
 
 # 📝 Publications 
+_<sup>*</sup> denotes equal contribution_
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/dp_knowledge_transfer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -40,8 +41,6 @@ My research interests are primarily focused on Large Language Models and AI for 
 [Model-Based Differentially Private Knowledge Transfer for Large Language Models](https://arxiv.org/abs/2410.10481)
 
 Zhaomin Wu*, **Jizhou Guo**\*, Junyi Hou, Bingsheng He, Lixin Fan, Qiang Yang
-
-<small>(<sup>*</sup> denotes equal contribution)</small>
 
 - Proposed **Llamdex**, a novel framework that integrates privacy-preserving, domain-specific models into LLMs.
 - Demonstrated significant performance gains in domain-specific tasks, with up to 26% accuracy improvement while maintaining differential privacy guarantees.
