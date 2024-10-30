@@ -49,7 +49,7 @@ Zhaomin Wu*, **Jizhou Guo**\*, Junyi Hou, Bingsheng He, Lixin Fan, Qiang Yang
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/internal_consistency.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/internal_consistency.pg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Calibrating Reasoning in Language Models with Internal Consistency](https://arxiv.org/pdf/2405.18711)
