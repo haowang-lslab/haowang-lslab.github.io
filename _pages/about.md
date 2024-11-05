@@ -56,7 +56,7 @@ Zhaomin Wu*, **Jizhou Guo**\*, Junyi Hou, Bingsheng He, Lixin Fan, Qiang Yang
 
 Zhihui Xie, **Jizhou Guo**, Tong Yu, Shuai Li
 
-- Developed a novel "internal consistency" approach to calibrate reasoning in Large Language Models (LLMs), **resulting in a significant boost in reasoning performance**.
+- Developed a novel "**internal consistency**" approach to calibrate reasoning in Large Language Models (LLMs), **resulting in a significant boost in reasoning performance**.
 - Conducted in-depth analysis of Chain-of-Thought (CoT) reasoning in LLMs through the lens of internal representations. 
 </div>
 </div>
