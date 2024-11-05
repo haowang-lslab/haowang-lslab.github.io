@@ -43,7 +43,7 @@ _<sup>*</sup> denotes equal contribution_
 Zhaomin Wu*, **Jizhou Guo**\*, Junyi Hou, Bingsheng He, Lixin Fan, Qiang Yang
 
 - Proposed **Llamdex**, a novel framework that integrates privacy-preserving, domain-specific models into LLMs.
-- Demonstrated significant performance gains in domain-specific tasks, with up to 26% accuracy improvement while maintaining differential privacy guarantees.
+- Demonstrated significant performance gains in domain-specific tasks, **with up to 26% accuracy improvement** while maintaining differential privacy guarantees.
 - Achieved comparable inference efficiency to base LLMs while enhancing domain-specific capabilities.
 </div>
 </div>
@@ -55,8 +55,8 @@ Zhaomin Wu*, **Jizhou Guo**\*, Junyi Hou, Bingsheng He, Lixin Fan, Qiang Yang
 [Calibrating Reasoning in Language Models with Internal Consistency](https://arxiv.org/abs/2405.18711)
 
 Zhihui Xie, **Jizhou Guo**, Tong Yu, Shuai Li
-
-- Developed a novel "internal consistency" approach to calibrate reasoning in Large Language Models (LLMs), resulting in a significant boost in reasoning performance.
+xt
+- Developed a novel "internal consistency" approach to calibrate reasoning in Large Language Models (LLMs), **resulting in a significant boost in reasoning performance**.
 - Conducted in-depth analysis of Chain-of-Thought (CoT) reasoning in LLMs through the lens of internal representations. 
 </div>
 </div>
