@@ -38,9 +38,13 @@ _<sup>*</sup> denotes equal contribution_
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/dp_knowledge_transfer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Model-Based Differentially Private Knowledge Transfer for Large Language Models](https://arxiv.org/abs/2410.10481)
+**Model-Based Differentially Private Knowledge Transfer for Large Language Models**
 
 Zhaomin Wu*, **Jizhou Guo**\*, Junyi Hou, Bingsheng He, Lixin Fan, Qiang Yang
+
+_Under review_ 
+
+<a href="https://arxiv.org/abs/2410.10481">[arXiv]</a>
 
 - Proposed **Llamdex**, a novel framework that integrates privacy-preserving, domain-specific models into LLMs.
 - Demonstrated significant performance gains in domain-specific tasks, **with up to 26% accuracy improvement** while maintaining differential privacy guarantees.
@@ -52,9 +56,13 @@ Zhaomin Wu*, **Jizhou Guo**\*, Junyi Hou, Bingsheng He, Lixin Fan, Qiang Yang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/internal_consistency.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Calibrating Reasoning in Language Models with Internal Consistency](https://arxiv.org/abs/2405.18711)
+**Calibrating Reasoning in Language Models with Internal Consistency**
 
 Zhihui Xie, **Jizhou Guo**, Tong Yu, Shuai Li
+
+__NeurIPS 2024__
+
+<a href="https://arxiv.org/abs/2405.18711">[arXiv]</a>
 
 - Developed a novel "**internal consistency**" approach to calibrate reasoning in Large Language Models (LLMs), **resulting in a significant boost in reasoning performance**.
 - Conducted in-depth analysis of Chain-of-Thought (CoT) reasoning in LLMs through the lens of internal representations. 
@@ -64,9 +72,11 @@ Zhihui Xie, **Jizhou Guo**, Tong Yu, Shuai Li
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/eeg.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-EEG-based Emotion Recognition in an Olfactory Stimulation Paradigm
+**EEG-based Emotion Recognition in an Olfactory Stimulation Paradigm**
 
 Jiaqi Wang, Zhengting Chen, Yifan Wu, Keyan Huang, Dian Zhang, **Jizhou Guo**, Xinglan Liu, Dan Peng, Weilong Zheng, Baoliang Lu
+
+__Under review__
 
 - Designed and executed experiments to predict human emotions from EEG signals under various olfactory stimuli.
 - Implemented and compared multiple deep learning models (MLP, CNN, Transformer) with Domain-Adversarial Neural Networks (DANN).
