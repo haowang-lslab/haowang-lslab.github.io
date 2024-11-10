@@ -60,7 +60,7 @@ _Under review_
 
 Zhihui Xie, **Jizhou Guo**, Tong Yu, Shuai Li
 
-__NeurIPS 2024__
+_NeurIPS 2024_
 
 <a href="https://arxiv.org/abs/2405.18711">[arXiv]</a>
 
@@ -76,7 +76,7 @@ __NeurIPS 2024__
 
 Jiaqi Wang, Zhengting Chen, Yifan Wu, Keyan Huang, Dian Zhang, **Jizhou Guo**, Xinglan Liu, Dan Peng, Weilong Zheng, Baoliang Lu
 
-__Under review__
+_Under review_
 
 - Designed and executed experiments to predict human emotions from EEG signals under various olfactory stimuli.
 - Implemented and compared multiple deep learning models (MLP, CNN, Transformer) with Domain-Adversarial Neural Networks (DANN).
