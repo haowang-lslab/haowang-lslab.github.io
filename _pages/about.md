@@ -110,7 +110,8 @@ Palm liveness detection
 
 # 🎖 Honors and Awards
 _Click <a href="assets/pdf/certificates.pdf">here</a> to view all certificates_
-- *2024.09* Merit Student in the Student Community (<strong>Among 19 SJTU undergraduate and graduate recipients</strong>).
+- *2024.11* Zhiyuan <strong>First-Class</strong> Overseas Research Scholarship.
+- *2024.09* Merit Student in the Student Community (<strong>19 recipients</strong>).
 - *2023.12* Second-Class Academic Scholarship, SJTU (<strong>Top 5%, ranked 2nd overall</strong>).
 - *2023.12* Zhiyuan Honors Scholarship, SJTU.
 - *2023.12* <strong> Third prize </strong> in Mathematics competition of Chinese College Students (Shanghai).
