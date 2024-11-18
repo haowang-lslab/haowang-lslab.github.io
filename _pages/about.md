@@ -64,7 +64,7 @@ _NeurIPS 2024_
 
 <a href="https://arxiv.org/abs/2405.18711">[arXiv]</a>
 
-- Developed a novel "**internal consistency**" approach to calibrate reasoning in Large Language Models (LLMs), **resulting in a significant boost in reasoning performance**.
+- Developed a novel "**internal consistency**" approach to calibrate reasoning in LLMs, **resulting in a significant boost in reasoning performance** without requiring additional training.
 - Conducted in-depth analysis of Chain-of-Thought (CoT) reasoning in LLMs through the lens of internal representations. 
 </div>
 </div>
