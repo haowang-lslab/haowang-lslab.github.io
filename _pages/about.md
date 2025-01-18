@@ -28,9 +28,9 @@ Besides research, I've excelled in competitive programming, winning awards in OI
 My research interests are primarily focused on Large Language Models and AI for Science. I'm always eager to engage in discussions about these topics, so please feel free to reach out if you'd like to chat!
 
 <p style="text-align: center;">
-<a href="mailto:sjtu18640985163">Email</a> / 
-<a href="https://scholar.google.com.hk/citations?user=fcBDdsYAAAAJ">Google Scholar</a> / 
-<a href="https://github.com/Aster2024">Github</a> / 
+<a href="mailto:sjtu18640985163@sjtu.edu.cn">Email</a> / 
+<a href="https://scholar.google.com.hk/citations?user=fcBDdsYAAAAJ/">Google Scholar</a> / 
+<a href="https://github.com/Aster2024/">Github</a> / 
 <a href="https://www.linkedin.com/in/jizhou-guo-6971b6277/">LinkedIn</a> / 
 <a href="images/wechat.jpg/">WeChat</a> /
 <a href="images/qq.jpg/">QQ</a> /
