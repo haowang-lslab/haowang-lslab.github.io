@@ -27,6 +27,17 @@ Besides research, I've excelled in competitive programming, winning awards in OI
 
 My research interests are primarily focused on Large Language Models and AI for Science. I'm always eager to engage in discussions about these topics, so please feel free to reach out if you'd like to chat!
 
+<p style="text-align: center;">
+<a href="mailto:sjtu18640985163">Email</a> / 
+<a href="https://scholar.google.com.hk/citations?user=fcBDdsYAAAAJ">Google Scholar</a> / 
+<a href="https://github.com/Aster2024">Github</a> / 
+<a href="https://www.linkedin.com/in/jizhou-guo-6971b6277/">LinkedIn</a> / 
+<a href="images/wechat.jpg/">WeChat</a> /
+<a href="images/qq.jpg/">QQ</a> /
+<a href="images/xiaohongshu.jpg/">Xiaohongshu</a> /
+<a href="assets/pdf/CV_Jizhou_Guo.pdf/">CV</a>
+</p>
+
 # 🔥 News
 - *2024.10*: &nbsp; Our work <a href="https://arxiv.org/abs/2410.10481">Llamdex</a> is on arXiv!
 - *2024.09*: &nbsp; 🎉Our work <a href="https://arxiv.org/abs/2405.18711">Internal Consistency</a> is accepted to NeurIPS 2024! 🎉
@@ -110,18 +121,21 @@ Palm liveness detection
 
 # 🎖 Honors and Awards
 _Click <a href="assets/pdf/certificates.pdf">here</a> to view all certificates_
+- *2025.01* <strong> Gold Award🥇 </strong> and <strong> First Runner-up </strong> in the Shanghai Regional Competition of the National College Students' Career Planning Contest.
+- *2024.12* Third-Class Academic Scholarship, SJTU (Top 20%).
+- *2024.12* Zhiyuan Honors Scholarship.
 - *2024.11* Zhiyuan <strong>First-Class</strong> Overseas Research Scholarship.
-- *2024.09* Merit Student in the Student Community, SJTU (<strong>19 recipients</strong>).
-- *2023.12* Second-Class Academic Scholarship, SJTU (<strong>Top 5%, ranked 2nd overall</strong>).
+- *2024.09* Merit Student of SJTU.
+- *2023.12* Second-Class Academic Scholarship, SJTU (Top 10%, ranked 2nd overall).
 - *2023.12* Zhiyuan Honors Scholarship.
-- *2023.12* <strong> Third prize </strong> in Mathematics competition of Chinese College Students (Shanghai).
-- *2023.09* <strong> First prize </strong> in Shanghai Collegiate Programming Contest (<strong>Ranked 2nd in Shanghai</strong>).
-- *2023.08* <strong> Gold medal </strong> in Astar Programming Contest (Shanghai region) (<strong>Ranked 2nd in Shanghai</strong>).
-- *2023.05* <strong> Gold medal </strong> in 2023 China Collegiate Programming Contest (<strong>CCPC</strong>) National Invitational Contest (Hunan).  
-- *2023.05* <strong> Gold medal </strong> in 2023 International Collegiate Programming Contest (<strong>ICPC</strong>) Xi'an Invitational Contest.
+- *2023.12* Third prize in Mathematics competition of Chinese College Students (Shanghai).
+- *2023.09* <strong> First prize </strong> in Shanghai Collegiate Programming Contest (Ranked 2nd in Shanghai).
+- *2023.08* <strong> Gold Award🥇 </strong> in Astar Programming Contest (Shanghai region) (Ranked 2nd in Shanghai).
+- *2023.05* <strong> Gold Medal🥇 </strong> in 2023 China Collegiate Programming Contest (<strong>CCPC</strong>) National Invitational Contest (Hunan).  
+- *2023.05* <strong> Gold Medal🥇 </strong> in 2023 International Collegiate Programming Contest (<strong>ICPC</strong>) Xi'an Invitational Contest.
 - *2022.12* Zhiyuan Honors Scholarship.
-- *2022.12* <strong> Gold medal </strong> in 2022 International Collegiate Programming Contest (<strong>ICPC</strong>) Asia Hangzhou Regional Contest (<strong>Ranked 8th nationwide</strong>).
-- *2022.09* <strong> Gold medal </strong> in 2022 China Collegiate Programming Contest (<strong>CCPC</strong>) (Shanghai region).
-- *2021.07* <strong> Silver medal </strong> in National Olympiad in Informatics (<strong>NOI</strong>).
+- *2022.12* <strong> Gold Medal🥇 </strong> in 2022 International Collegiate Programming Contest (<strong>ICPC</strong>) Asia Hangzhou Regional Contest (Ranked 8th nationwide).
+- *2022.09* <strong> Gold Medal🥇 </strong> in 2022 China Collegiate Programming Contest (<strong>CCPC</strong>) (Shanghai region).
+- *2021.07* <strong> Silver Medal🥈 </strong> in National Olympiad in Informatics (<strong>NOI</strong>).
 - *2021.03* <strong> Ranked 22nd nationwide </strong> in National Olympiad in Informatics (<strong>NOI</strong>) Online Senior Group.
 
