@@ -121,7 +121,7 @@ Palm liveness detection
 
 # 🎖 Honors and Awards
 _Click <a href="assets/pdf/certificates.pdf">here</a> to view all certificates_
-- *2025.01* <strong> Gold Award🥇 </strong> and <strong> First Runner-up </strong> in the Shanghai Regional Competition of the National College Students' Career Planning Contest.
+- *2025.01* <strong> Gold Award🥇 </strong> and <strong> First Runner-up </strong> in the National College Students' Career Planning Contest (Shanghai Region).
 - *2024.12* Third-Class Academic Scholarship, SJTU (Top 20%).
 - *2024.12* Zhiyuan Honors Scholarship.
 - *2024.11* Zhiyuan <strong>First-Class</strong> Overseas Research Scholarship.
@@ -130,7 +130,7 @@ _Click <a href="assets/pdf/certificates.pdf">here</a> to view all certificates_
 - *2023.12* Zhiyuan Honors Scholarship.
 - *2023.12* Third prize in Mathematics competition of Chinese College Students (Shanghai).
 - *2023.09* <strong> First prize </strong> in Shanghai Collegiate Programming Contest (Ranked 2nd in Shanghai).
-- *2023.08* <strong> Gold Award🥇 </strong> in Astar Programming Contest (Shanghai region) (Ranked 2nd in Shanghai).
+- *2023.08* <strong> Gold Award🥇 </strong> in Astar Programming Contest (Shanghai Region) (Ranked 2nd in Shanghai).
 - *2023.05* <strong> Gold Medal🥇 </strong> in 2023 China Collegiate Programming Contest (<strong>CCPC</strong>) National Invitational Contest (Hunan).  
 - *2023.05* <strong> Gold Medal🥇 </strong> in 2023 International Collegiate Programming Contest (<strong>ICPC</strong>) Xi'an Invitational Contest.
 - *2022.12* Zhiyuan Honors Scholarship.
