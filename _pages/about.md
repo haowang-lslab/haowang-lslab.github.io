@@ -23,7 +23,7 @@ Most recently, I was a research intern at <strong>National University of Singapo
 Before that, I worked as an undergraduate researcher at Shanghai Jiao Tong University, working alongside <a href="https://zhxie.site/">Mr. Zhihui Xie</a>, mentored by <a href="https://shuaili8.github.io/">Prof. Shuai Li</a> and <a href="https://scholar.google.com/citations?user=6-ARmXsAAAAJ">Dr. Tong Yu</a>.
 I've also had the privilege of collaborating with <a href="https://bcmi.sjtu.edu.cn/~blu/">Prof. Bao-Liang Lu</a> and <a href="https://weilongzheng.github.io/">Prof. Wei-Long Zheng</a>.
 
-Besides research, I've excelled in competitive programming, winning awards in OI, ICPC, CCPC and various other contests. See my <a href="assets/pdf/CV_Jizhou_Guo.pdf">CV</a> for details.
+Besides research, I've excelled in competitive programming, winning awards in OI, ICPC, CCPC and various other contests, under the guidance of <a href="https://apex.sjtu.edu.cn/members/yyu">Prof. Yong Yu</a>. See my <a href="assets/pdf/CV_Jizhou_Guo.pdf">CV</a> for details.
 
 My research interests are primarily focused on Large Language Models and AI for Science. I'm always eager to engage in discussions about these topics, so please feel free to reach out if you'd like to chat!
 
