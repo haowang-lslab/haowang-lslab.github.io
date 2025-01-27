@@ -95,29 +95,43 @@ _Under review_
 </div>
 </div>
 
-# 💻 Projects
+[//]: # (# 💻 Projects)
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/AD_bio.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[//]: # ()
+[//]: # (<div class='paper-box'><div class='paper-box-image'><div><img src='images/AD_bio.png' alt="sym" width="100%"></div></div>)
 
-Novel biological dressing for atopic dermatitis
+[//]: # (<div class='paper-box-text' markdown="1">)
 
-- Work done at Quantitative Biology Summer School of Center for Life Sciences, Peking University on 2023.07.
-- Conceptualized and simulated a novel bio-responsive bandage using MATLAB, modeling drug diffusion processes for optimized wound healing.
+[//]: # ()
+[//]: # (Novel biological dressing for atopic dermatitis)
 
-</div>
-</div>
+[//]: # ()
+[//]: # (- Work done at Quantitative Biology Summer School of Center for Life Sciences, Peking University on 2023.07.)
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/spiderman.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[//]: # (- Conceptualized and simulated a novel bio-responsive bandage using MATLAB, modeling drug diffusion processes for optimized wound healing.)
 
-Palm liveness detection
+[//]: # ()
+[//]: # (</div>)
 
-- Work done at Tencent Spark Project of Tencent Corporation on 2022.08.
-- Engineered a robust palm liveness detection system.
+[//]: # (</div>)
 
-</div>
-</div>
+[//]: # ()
+[//]: # (<div class='paper-box'><div class='paper-box-image'><div><img src='images/spiderman.jpg' alt="sym" width="100%"></div></div>)
+
+[//]: # (<div class='paper-box-text' markdown="1">)
+
+[//]: # ()
+[//]: # (Palm liveness detection)
+
+[//]: # ()
+[//]: # (- Work done at Tencent Spark Project of Tencent Corporation on 2022.08.)
+
+[//]: # (- Engineered a robust palm liveness detection system.)
+
+[//]: # ()
+[//]: # (</div>)
+
+[//]: # (</div>)
 
 # 🎖 Honors and Awards
 _Click <a href="assets/pdf/certificates.pdf">here</a> to view all certificates_
@@ -128,8 +142,8 @@ _Click <a href="assets/pdf/certificates.pdf">here</a> to view all certificates_
 - *2024.09* Merit Student of SJTU.
 - *2023.12* Second-Class Academic Scholarship, SJTU (Top 10%, ranked 2nd overall).
 - *2023.12* Zhiyuan Honors Scholarship.
-- *2023.12* Third prize in Mathematics competition of Chinese College Students (Shanghai).
-- *2023.09* <strong> First prize </strong> in Shanghai Collegiate Programming Contest (Ranked 2nd in Shanghai).
+- *2023.12* Third Prize in Mathematics competition of Chinese College Students (Shanghai).
+- *2023.09* <strong> First Prize </strong> in Shanghai Collegiate Programming Contest (Ranked 2nd in Shanghai).
 - *2023.08* <strong> Gold Award🥇 </strong> in Astar Programming Contest (Shanghai Region) (Ranked 2nd in Shanghai).
 - *2023.05* <strong> Gold Medal🥇 </strong> in 2023 China Collegiate Programming Contest (<strong>CCPC</strong>) National Invitational Contest (Hunan).  
 - *2023.05* <strong> Gold Medal🥇 </strong> in 2023 International Collegiate Programming Contest (<strong>ICPC</strong>) Xi'an Invitational Contest.
