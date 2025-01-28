@@ -95,6 +95,13 @@ _Under review_
 </div>
 </div>
 
+# 💻 Internships and Projects
+
+- 2023.07: Student Trainee at Quantitative Biology Summer School of Center for Life Sciences, Peking University.
+- 2022.08: Research Intern at Tencent Spark Project of Tencent Corporation.
+- I've also completed several course projects. See my <a href="assets/pdf/CV_Jizhou_Guo.pdf">CV</a> for details.
+
+
 [//]: # (# 💻 Projects)
 
 [//]: # ()
