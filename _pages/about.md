@@ -169,7 +169,7 @@ Quantitative Biology Summer School of [Center for Life Sciences](http://www.cls.
 
 2022.08  
 Research Intern  
-[Spark Project (AI group)](https://mp.weixin.qq.com/s/V4aGR4unGb2tOhgurL4xmQ)
+Spark Project (AI group)
 
   </div>
 </div>
