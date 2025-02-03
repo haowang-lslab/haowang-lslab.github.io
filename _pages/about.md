@@ -34,7 +34,7 @@ My research interests are primarily focused on Large Language Models and AI for 
 <a href="https://www.linkedin.com/in/jizhou-guo-6971b6277">LinkedIn</a> / 
 <a href="images/wechat.jpg">WeChat</a> /
 <a href="images/qq.jpg">QQ</a> /
-<a href="images/xiaohongshu.jpg">Xiaohongshu(RedNote)</a> /
+<a href="images/xiaohongshu.jpg">Xiaohongshu (RedNote)</a> /
 <a href="assets/pdf/CV_Jizhou_Guo.pdf">CV</a>
 </p>
 
