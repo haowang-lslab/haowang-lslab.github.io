@@ -9,11 +9,14 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Internships and Projects"
-    url: "/#-internships-and-projects"
+  - title: "Experience"
+    url: "/#-experience"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
+
+  - title: "Misc."
+    url: "/#-miscellaneous"
 
   - title: "CV (PDF)"
     url: "/assets/pdf/CV_Jizhou_Guo.pdf"

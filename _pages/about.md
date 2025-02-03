@@ -34,7 +34,7 @@ My research interests are primarily focused on Large Language Models and AI for 
 <a href="https://www.linkedin.com/in/jizhou-guo-6971b6277">LinkedIn</a> / 
 <a href="images/wechat.jpg">WeChat</a> /
 <a href="images/qq.jpg">QQ</a> /
-<a href="images/xiaohongshu.jpg">Xiaohongshu</a> /
+<a href="images/xiaohongshu.jpg">Xiaohongshu(RedNote)</a> /
 <a href="assets/pdf/CV_Jizhou_Guo.pdf">CV</a>
 </p>
 
@@ -95,11 +95,49 @@ _Under review_
 </div>
 </div>
 
-# 💻 Internships and Projects
+# 💼 Experience
 
-- 2023.07: Student Trainee at Quantitative Biology Summer School of Center for Life Sciences, Peking University.
-- 2022.08: Research Intern at Tencent Spark Project of Tencent Corporation.
-- I've also completed several course projects. See my <a href="assets/pdf/CV_Jizhou_Guo.pdf">CV</a> for details.
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/nus_logo.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+National University of Singapore
+2024.06 - 2024.08
+Research Assistant
+Supervisor: <a href="https://www.comp.nus.edu.sg/~hebs/">Prof. Bingsheng He</a>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/pku_logo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Peking University
+2023.07
+Student Trainee
+Quantitative Biology Summer School of <a href="http://www.cls.edu.cn/">Center for Life Sciences</a>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/tencent_logo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Tencent Corporation
+2022.08
+Research Intern
+<a href="https://mp.weixin.qq.com/s/V4aGR4unGb2tOhgurL4xmQ">Spark Project (AI group)</a>
+
+</div>
+</div>
+
+I've also completed several course projects. See my <a href="assets/pdf/CV_Jizhou_Guo.pdf">CV</a> for details.
+
+
+[//]: # (- 2023.07: Student Trainee at Quantitative Biology Summer School of Center for Life Sciences, Peking University.)
+
+[//]: # (- 2022.08: Research Intern at Tencent Spark Project of Tencent Corporation.)
+
+[//]: # (- I've also completed several course projects. See my <a href="assets/pdf/CV_Jizhou_Guo.pdf">CV</a> for details.)
 
 
 [//]: # (# 💻 Projects)
@@ -160,3 +198,12 @@ _Click <a href="assets/pdf/certificates.pdf">here</a> to view all certificates_
 - *2021.07* <strong> Silver Medal🥈 </strong> in National Olympiad in Informatics (<strong>NOI</strong>).
 - *2021.03* <strong> Ranked 22nd nationwide </strong> in National Olympiad in Informatics (<strong>NOI</strong>) Online Senior Group.
 
+# 🌈 Miscellaneous
+
+Apart from academic studies and research, I have a wide range of interests, including piano and singing.
+
+- I enjoy playing the piano🎹 and have passed <a href="https://www.abrsm.org/">ABRSM</a> Practical Grade 8 and <a href="https://www.ccmusic.edu.cn/">CCM</a>Amateur Grade 10, both the highest levels. I've also won awards in several piano competitions.
+- I am passionate about singing🎤 and have passed <a href="https://www.ccmusic.edu.cn/">CCM</a>Amateur Grade 9 (highest level).
+- I used to serve as the conductor of the choir in junior school.
+- I also have experience in public speaking🗣️ and won Gold Award🥇 in the National College Students' Career Planning Contest (Shanghai Region).
+- I have participated in various algorithm competitions🖥️ and earned Gold Medals🥇 in ICPC/CCPC and a Silver Medal🥈 in NOI.
