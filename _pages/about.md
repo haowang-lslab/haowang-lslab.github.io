@@ -95,43 +95,102 @@ _Under review_
 </div>
 </div>
 
+<style>
+.experience-box {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 20px;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  overflow: hidden;
+}
+.experience-image {
+  width: 100px;
+  min-width: 100px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f5f5f5;
+}
+.experience-image img {
+  max-width: 90%;
+  max-height: 90%;
+  object-fit: contain;
+}
+.experience-text {
+  flex: 1;
+  padding: 15px;
+}
+.experience-text h3 {
+  margin-top: 0;
+}
+</style>
+
 # 💼 Experience
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/nus_logo.jpeg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class="experience-box">
+  <div class="experience-image">
+    <img src="images/nus_logo.jpeg" alt="NUS logo">
+  </div>
+  <div class="experience-text" markdown="1">
 
-National University of Singapore
-2024.06 - 2024.08
-Research Assistant
-Supervisor: <a href="https://www.comp.nus.edu.sg/~hebs/">Prof. Bingsheng He</a>
+### National University of Singapore
 
-</div>
-</div>
+2024.06 - 2024.08  
+Research Assistant  
+Advisor: [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/)
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/pku_logo.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Peking University
-2023.07
-Student Trainee
-Quantitative Biology Summer School of <a href="http://www.cls.edu.cn/">Center for Life Sciences</a>
-
-</div>
+  </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/tencent_logo.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class="experience-box">
+  <div class="experience-image">
+    <img src="images/pku_logo.jpeg" alt="PKU logo">
+  </div>
+  <div class="experience-text" markdown="1">
 
-Tencent Corporation
-2022.08
-Research Intern
-<a href="https://mp.weixin.qq.com/s/V4aGR4unGb2tOhgurL4xmQ">Spark Project (AI group)</a>
+### Peking University
 
+2023.07  
+Student Trainee  
+Quantitative Biology Summer School of [Center for Life Sciences](http://www.cls.edu.cn/)
+
+  </div>
 </div>
+
+<div class="experience-box">
+  <div class="experience-image">
+    <img src="images/tencent_logo.jpeg" alt="Tencent logo">
+  </div>
+  <div class="experience-text" markdown="1">
+
+### Tencent Corporation
+
+2022.08  
+Research Intern  
+[Spark Project (AI group)](https://mp.weixin.qq.com/s/V4aGR4unGb2tOhgurL4xmQ)
+
+  </div>
 </div>
 
-I've also completed several course projects. See my <a href="assets/pdf/CV_Jizhou_Guo.pdf">CV</a> for details.
+<div class="experience-box">
+  <div class="experience-image">
+    <img src="images/sjtu_logo.jpeg" alt="SJTU logo">
+  </div>
+  <div class="experience-text" markdown="1">
 
+### Shanghai Jiao Tong University
+
+2022.09 - Present  
+Bachelor of Science in Mathematics with Honors, Zhiyuan College  
+Research Advisors:  
+[Prof. Shuai Li](https://shuaili8.github.io/), [Prof. Bao-Liang Lu](https://bcmi.sjtu.edu.cn/~blu/), and [Prof. Wei-Long Zheng](https://weilongzheng.github.io/)
+
+  </div>
+</div>
+
+I've also completed several course projects. See my [CV](assets/pdf/CV_Jizhou_Guo.pdf) for details.
 
 [//]: # (- 2023.07: Student Trainee at Quantitative Biology Summer School of Center for Life Sciences, Peking University.)
 
@@ -202,8 +261,8 @@ _Click <a href="assets/pdf/certificates.pdf">here</a> to view all certificates_
 
 Apart from academic studies and research, I have a wide range of interests, including piano and singing.
 
-- I enjoy playing the piano🎹 and have passed <a href="https://www.abrsm.org/">ABRSM</a> Practical Grade 8 and <a href="https://www.ccmusic.edu.cn/">CCM</a>Amateur Grade 10, both the highest levels. I've also won awards in several piano competitions.
-- I am passionate about singing🎤 and have passed <a href="https://www.ccmusic.edu.cn/">CCM</a>Amateur Grade 9 (highest level).
+- I enjoy playing the piano🎹 and have passed <a href="https://www.abrsm.org/">ABRSM</a> Practical Grade 8 and <a href="https://www.ccmusic.edu.cn/">CCM</a> Amateur Grade 10, both the highest levels. I've also won awards in several piano competitions.
+- I am passionate about singing🎤 and have passed <a href="https://www.ccmusic.edu.cn/">CCM</a> Amateur Grade 9 (highest level).
 - I used to serve as the conductor of the choir in junior school.
-- I also have experience in public speaking🗣️ and won Gold Award🥇 in the National College Students' Career Planning Contest (Shanghai Region).
+- I also have some experience in public speaking🗣️ and won Gold Award🥇 in the National College Students' Career Planning Contest (Shanghai Region).
 - I have participated in various algorithm competitions🖥️ and earned Gold Medals🥇 in ICPC/CCPC and a Silver Medal🥈 in NOI.
