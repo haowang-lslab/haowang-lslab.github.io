@@ -183,9 +183,8 @@ Research Intern
 ### Shanghai Jiao Tong University
 
 2022.09 - Present  
-Bachelor of Science in Mathematics with Honors, Zhiyuan College  
-Research Advisors:  
-[Prof. Shuai Li](https://shuaili8.github.io/), [Prof. Bao-Liang Lu](https://bcmi.sjtu.edu.cn/~blu/), and [Prof. Wei-Long Zheng](https://weilongzheng.github.io/)
+Bachelor of Science in Mathematics with <strong>Honors</strong>, [Zhiyuan College](https://zhiyuan.sjtu.edu.cn/)  
+Research Advisors: [Prof. Shuai Li](https://shuaili8.github.io/), [Prof. Bao-Liang Lu](https://bcmi.sjtu.edu.cn/~blu/), and [Prof. Wei-Long Zheng](https://weilongzheng.github.io/)
 
   </div>
 </div>
