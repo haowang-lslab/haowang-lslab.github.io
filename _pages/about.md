@@ -262,6 +262,7 @@ Apart from academic studies and research, I have a wide range of interests, incl
 
 - I enjoy playing the piano🎹 and have passed <a href="https://www.abrsm.org/">ABRSM</a> Practical Grade 8 and <a href="https://www.ccmusic.edu.cn/">CCM</a> Amateur Grade 10, both the highest levels. I've also won awards in several piano competitions.
 - I am passionate about singing🎤 and have passed <a href="https://www.ccmusic.edu.cn/">CCM</a> Amateur Grade 9 (highest level).
-- I used to serve as the conductor of the choir in junior school.
+- I used to serve as the conductor of the choir in junior high school.
 - I also have some experience in public speaking🗣️ and won Gold Award🥇 in the National College Students' Career Planning Contest (Shanghai Region).
+- Regarding sports, I'm an amateur enthusiast of jogging🏃 and skiing⛷️.
 - I have participated in various algorithm competitions🖥️ and earned Gold Medals🥇 in ICPC/CCPC and a Silver Medal🥈 in NOI.
