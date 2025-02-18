@@ -49,7 +49,7 @@ _<sup>*</sup> denotes equal contribution_
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/dp_knowledge_transfer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Model-Based Differentially Private Knowledge Transfer for Large Language Models**
+**Model-Based Privacy-Preserving Knowledge Transfer for Large Language Models**
 
 Zhaomin Wu*, **Jizhou Guo**\*, Junyi Hou, Bingsheng He, Lixin Fan, Qiang Yang
 
