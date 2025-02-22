@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Jizhou Guo"
 description              : ""
-repository               : "Aster2024/Aster2024.github.io"
+repository               : "jzguo2024/jzguo2024.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Aster2024" # e.g., "github username"
+  github           : "jzguo2024" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
