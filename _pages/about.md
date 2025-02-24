@@ -25,7 +25,7 @@ I've also had the privilege of collaborating with <a href="https://bcmi.sjtu.edu
 
 Besides research, I've excelled in competitive programming, winning awards in OI, ICPC, CCPC and various other contests, under the guidance of <a href="https://apex.sjtu.edu.cn/members/yyu">Prof. Yong Yu</a>. See my <a href="assets/pdf/CV_Jizhou_Guo.pdf">CV</a> for details.
 
-My research interests are primarily focused on Large Language Models and AI for Science. I'm always eager to engage in discussions about these topics, so please feel free to reach out if you'd like to chat!
+My research interests are primarily focused on Large Language Models and Foundation Models. I'm always eager to engage in discussions about these topics, so please feel free to reach out if you'd like to chat!
 
 <p style="text-align: center;">
 <a href="mailto:sjtu18640985163@sjtu.edu.cn">Email</a> / 
