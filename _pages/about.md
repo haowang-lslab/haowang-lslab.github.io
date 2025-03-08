@@ -46,7 +46,7 @@ My research interests are primarily focused on Large Language Models and Foundat
 # 📝 Publications 
 _<sup>*</sup> denotes equal contribution_
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/dp_knowledge_transfer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/dp_knowledge_transfer.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Model-Based Privacy-Preserving Knowledge Transfer for Large Language Models**
@@ -73,7 +73,7 @@ Zhihui Xie, **Jizhou Guo**, Tong Yu, Shuai Li
 
 _NeurIPS 2024_
 
-<a href="https://arxiv.org/abs/2405.18711">[arXiv]</a>
+<a href="https://arxiv.org/abs/2405.18711">[arXiv]</a> <a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202024/93260.png">[poster]</a>
 
 - Developed a novel "**internal consistency**" approach to calibrate reasoning in LLMs, **resulting in a significant boost in reasoning performance** without requiring additional training.
 - Conducted in-depth analysis of Chain-of-Thought (CoT) reasoning in LLMs through the lens of internal representations. 
@@ -94,6 +94,25 @@ _Under review_
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Course Project</div><img src='images/2aRNN_model.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Two-Area RNN: Representations for Context-Dependent Decisions**
+
+**Jizhou Guo**, Liting Pang, Zhaoyu Zhu, Ziyi Xu
+
+_Course Project_
+
+<a href="assets/pdf/2aRNN_report.pdf">[PDF]</a>
+
+- Proposed a novel **Two-Area RNN** architecture for context-dependent decision-making tasks.
+
+</div>
+</div>
+
+
+I have completed additional course projects as well; please refer to my [CV](assets/pdf/CV_Jizhou_Guo.pdf) for details.
 
 <style>
 .experience-box {
@@ -188,8 +207,6 @@ Research Advisors: [Prof. Shuai Li](https://shuaili8.github.io/), [Prof. Bao-Lia
 
   </div>
 </div>
-
-I've also completed several course projects. See my [CV](assets/pdf/CV_Jizhou_Guo.pdf) for details.
 
 [//]: # (- 2023.07: Student Trainee at Quantitative Biology Summer School of Center for Life Sciences, Peking University.)
 
