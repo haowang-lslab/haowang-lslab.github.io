@@ -95,7 +95,7 @@ _Under review_
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Course Project</div><img src='images/2aRNN_model.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Course Project</div><img src='images/2aRNN_model.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Two-Area RNN: Representations for Context-Dependent Decisions**
