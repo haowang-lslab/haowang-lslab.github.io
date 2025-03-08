@@ -95,14 +95,14 @@ _Under review_
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Course Project</div><img src='images/2aRNN_model.png' alt="sym" width="100%"></div></div>
+# 📚 Course Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/2aRNN_model.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Two-Area RNN: Representations for Context-Dependent Decisions**
 
 **Jizhou Guo**, Liting Pang, Zhaoyu Zhu, Ziyi Xu
-
-_Course Project_
 
 <a href="assets/pdf/2aRNN_report.pdf">[PDF]</a>
 
@@ -110,7 +110,6 @@ _Course Project_
 
 </div>
 </div>
-
 
 I have completed additional course projects as well; please refer to my [CV](assets/pdf/CV_Jizhou_Guo.pdf) for details.
 
