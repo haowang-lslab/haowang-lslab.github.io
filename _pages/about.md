@@ -55,7 +55,7 @@ Zhaomin Wu*, **Jizhou Guo**\*, Junyi Hou, Bingsheng He, Lixin Fan, Qiang Yang
 
 _Under review_ 
 
-<a href="https://arxiv.org/abs/2410.10481">[arXiv]</a>
+[[arXiv]](https://arxiv.org/abs/2410.10481)
 
 - Proposed **Llamdex**, a novel framework that integrates privacy-preserving, domain-specific models into LLMs.
 - Demonstrated significant performance gains in domain-specific tasks, **with up to 26% accuracy improvement** while maintaining differential privacy guarantees.
@@ -73,7 +73,7 @@ Zhihui Xie, **Jizhou Guo**, Tong Yu, Shuai Li
 
 _NeurIPS 2024_
 
-<a href="https://arxiv.org/abs/2405.18711">[arXiv]</a> <a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202024/93260.png">[poster]</a>
+[[arXiv]](https://arxiv.org/abs/2405.18711) [[poster]](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/93260.png) [[code]](https://github.com/zhxieml/internal-consistency)
 
 - Developed a novel "**internal consistency**" approach to calibrate reasoning in LLMs, **resulting in a significant boost in reasoning performance** without requiring additional training.
 - Conducted in-depth analysis of Chain-of-Thought (CoT) reasoning in LLMs through the lens of internal representations. 
@@ -104,7 +104,7 @@ _Under review_
 
 **Jizhou Guo**, Liting Pang, Zhaoyu Zhu, Ziyi Xu
 
-<a href="assets/pdf/2aRNN_report.pdf">[PDF]</a>
+[[PDF]](assets/pdf/2aRNN_report.pdf)
 
 - Proposed a novel **Two-Area RNN** architecture for context-dependent decision-making tasks.
 
