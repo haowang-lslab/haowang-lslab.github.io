@@ -172,7 +172,7 @@ Advisor: [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/)
 
 2023.07  
 Student Trainee  
-Quantitative Biology Summer School of [Center for Life Sciences](http://www.cls.edu.cn/)
+Quantitative Biology Summer School of [Center for Life Sciences](http://www.cls.edu.cn/) (50 candidates nationwide)
 
   </div>
 </div>
@@ -187,7 +187,7 @@ Quantitative Biology Summer School of [Center for Life Sciences](http://www.cls.
 
 2022.08  
 Research Intern  
-Spark Project (AI group)
+Spark Project (AI group) (50 high-school students with talents nationwide)
 
   </div>
 </div>
