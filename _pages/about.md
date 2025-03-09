@@ -207,51 +207,6 @@ Research Advisors: [Prof. Shuai Li](https://shuaili8.github.io/), [Prof. Bao-Lia
   </div>
 </div>
 
-[//]: # (- 2023.07: Student Trainee at Quantitative Biology Summer School of Center for Life Sciences, Peking University.)
-
-[//]: # (- 2022.08: Research Intern at Tencent Spark Project of Tencent Corporation.)
-
-[//]: # (- I've also completed several course projects. See my <a href="assets/pdf/CV_Jizhou_Guo.pdf">CV</a> for details.)
-
-
-[//]: # (# 💻 Projects)
-
-[//]: # ()
-[//]: # (<div class='paper-box'><div class='paper-box-image'><div><img src='images/AD_bio.png' alt="sym" width="100%"></div></div>)
-
-[//]: # (<div class='paper-box-text' markdown="1">)
-
-[//]: # ()
-[//]: # (Novel biological dressing for atopic dermatitis)
-
-[//]: # ()
-[//]: # (- Work done at Quantitative Biology Summer School of Center for Life Sciences, Peking University on 2023.07.)
-
-[//]: # (- Conceptualized and simulated a novel bio-responsive bandage using MATLAB, modeling drug diffusion processes for optimized wound healing.)
-
-[//]: # ()
-[//]: # (</div>)
-
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # (<div class='paper-box'><div class='paper-box-image'><div><img src='images/spiderman.jpg' alt="sym" width="100%"></div></div>)
-
-[//]: # (<div class='paper-box-text' markdown="1">)
-
-[//]: # ()
-[//]: # (Palm liveness detection)
-
-[//]: # ()
-[//]: # (- Work done at Tencent Spark Project of Tencent Corporation on 2022.08.)
-
-[//]: # (- Engineered a robust palm liveness detection system.)
-
-[//]: # ()
-[//]: # (</div>)
-
-[//]: # (</div>)
-
 # 🎖 Selected Honors and Awards
 _Click <a href="assets/pdf/certificates.pdf">here</a> to view all certificates_
 - *2025.01* <strong> Gold Award🥇 </strong> and <strong> First Runner-up </strong> in the National College Students' Career Planning Contest (Shanghai Region).
