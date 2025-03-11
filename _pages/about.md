@@ -113,6 +113,10 @@ _Under review_
 
 I have completed additional course projects as well; please refer to my [CV](assets/pdf/CV_Jizhou_Guo.pdf) for details.
 
+# 🌍 Services
+
+Invited as reviewer: EMBC 2025
+
 <style>
 .experience-box {
   display: flex;
