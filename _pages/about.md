@@ -51,7 +51,7 @@ _<sup>*</sup> denotes equal contribution_
 
 **Model-Based Privacy-Preserving Knowledge Transfer for Large Language Models**
 
-Zhaomin Wu*, **Jizhou Guo**\*, Junyi Hou, Bingsheng He, Lixin Fan, Qiang Yang
+Zhaomin Wu\*, **Jizhou Guo**\*, Junyi Hou, Bingsheng He, Lixin Fan, Qiang Yang
 
 _Under review_ 
 
@@ -80,12 +80,12 @@ _NeurIPS 2024_
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/dann.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/dann.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Cross-Stimulus Transfer Learning: Enhancing Emotion Recognition from Visual-Auditory to Olfactory Perception**
 
-Jiaqi Wang*, Zhengting Chen*, Yifan Wu, Keyan Huang, Dian Zhang, **Jizhou Guo**, Xinglan Liu, Dan Peng, Weilong Zheng, Baoliang Lu
+Jiaqi Wang\*, Zhengting Chen\*, Yifan Wu, Keyan Huang, Dian Zhang, **Jizhou Guo**, Xinglan Liu, Dan Peng, Weilong Zheng, Baoliang Lu
 
 _Under review_
 
@@ -101,7 +101,7 @@ _Under review_
 
 **EEG-based Emotion Recognition in an Olfactory Stimulation Paradigm**
 
-Jiaqi Wang,* Zhengting Chen*, Yifan Wu, Keyan Huang, Dian Zhang, **Jizhou Guo**, Xinglan Liu, Dan Peng, Weilong Zheng, Baoliang Lu
+Jiaqi Wang\*, Zhengting Chen\*, Yifan Wu, Keyan Huang, Dian Zhang, **Jizhou Guo**, Xinglan Liu, Dan Peng, Weilong Zheng, Baoliang Lu
 
 _Under review_
 
