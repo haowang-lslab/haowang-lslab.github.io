@@ -80,17 +80,33 @@ _NeurIPS 2024_
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/dann.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Cross-Stimulus Transfer Learning: Enhancing Emotion Recognition from Visual-Auditory to Olfactory Perception**
+
+Jiaqi Wang*, Zhengting Chen*, Yifan Wu, Keyan Huang, Dian Zhang, **Jizhou Guo**, Xinglan Liu, Dan Peng, Weilong Zheng, Baoliang Lu
+
+_Under review_
+
+- Designed a cross-stimulus transfer learning task between olfactory and visual-auditory stimuli.
+- Developed Transformer-based Domain-Adversarial Neural Network (DANN) and outperformed conventional methods.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/eeg.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **EEG-based Emotion Recognition in an Olfactory Stimulation Paradigm**
 
-Jiaqi Wang, Zhengting Chen, Yifan Wu, Keyan Huang, Dian Zhang, **Jizhou Guo**, Xinglan Liu, Dan Peng, Weilong Zheng, Baoliang Lu
+Jiaqi Wang,* Zhengting Chen*, Yifan Wu, Keyan Huang, Dian Zhang, **Jizhou Guo**, Xinglan Liu, Dan Peng, Weilong Zheng, Baoliang Lu
 
 _Under review_
 
 - Designed and executed experiments to predict human emotions from EEG signals under various olfactory stimuli.
-- Implemented and compared multiple deep learning models (MLP, CNN, Transformer) with Domain-Adversarial Neural Networks (DANN).
+- Implemented and compared multiple deep learning models (MLP, CNN, Transformer).
 
 </div>
 </div>
