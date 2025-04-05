@@ -85,7 +85,7 @@ _NeurIPS 2024_
 
 **Cross-Stimulus Transfer Learning: Enhancing Emotion Recognition from Visual-Auditory to Olfactory Perception**
 
-Jiaqi Wang\*, Zhengting Chen\*, Yifan Wu, Keyan Huang, Dian Zhang, **Jizhou Guo**, Xinglan Liu, Dan Peng, Weilong Zheng, Baoliang Lu
+Jiaqi Wang\*, Zhengting Chen\*, Keyan Huang, Yifan Wu, Dian Zhang, **Jizhou Guo**, Xinglan Liu, Dan Peng, Baoliang Lu, Weilong Zheng
 
 _Under review_
 
@@ -101,7 +101,7 @@ _Under review_
 
 **EEG-based Emotion Recognition in an Olfactory Stimulation Paradigm**
 
-Jiaqi Wang\*, Zhengting Chen\*, Yifan Wu, Keyan Huang, Dian Zhang, **Jizhou Guo**, Xinglan Liu, Dan Peng, Weilong Zheng, Baoliang Lu
+Jiaqi Wang\*, Zhengting Chen\*, Keyan Huang, Yifan Wu, Dian Zhang, **Jizhou Guo**, Xinglan Liu, Dan Peng, Baoliang Lu, Weilong Zheng
 
 _Under review_
 
