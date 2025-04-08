@@ -29,8 +29,6 @@ My research interests are primarily focused on Large Language Models and Foundat
 
 <p style="text-align: center;">
 <a href="mailto:sjtu18640985163@sjtu.edu.cn">Email</a> / 
-<a href="https://scholar.google.com.hk/citations?user=fcBDdsYAAAAJ">Google Scholar</a> / 
-<a href="https://github.com/jzguo2024">Github</a> / 
 <a href="https://www.linkedin.com/in/jizhou-guo-6971b6277">LinkedIn</a> / 
 <a href="images/wechat.jpg">WeChat</a> /
 <a href="images/qq.jpg">QQ</a> /
@@ -39,6 +37,7 @@ My research interests are primarily focused on Large Language Models and Foundat
 </p>
 
 # 🔥 News
+- *2025.04*: &nbsp; 🎉Our work _Cross-Stimulus Transfer Learning_ and _Olfactory EEG_ are accepted to EMBC 2025! 🎉
 - *2024.10*: &nbsp; Our work <a href="https://arxiv.org/abs/2410.10481">Llamdex</a> is on arXiv!
 - *2024.09*: &nbsp; 🎉Our work <a href="https://arxiv.org/abs/2405.18711">Internal Consistency</a> is accepted to NeurIPS 2024! 🎉
 - *2024.05*: &nbsp; Our work <a href="https://arxiv.org/abs/2405.18711">Internal Consistency</a> is on arXiv!
@@ -87,7 +86,7 @@ _NeurIPS 2024_
 
 Jiaqi Wang\*, Zhengting Chen\*, Keyan Huang, Yifan Wu, Dian Zhang, **Jizhou Guo**, Xinglan Liu, Dan Peng, Baoliang Lu, Weilong Zheng
 
-_Under review_
+_EMBC 2025_ (Full Contributed paper)
 
 - Designed a cross-stimulus transfer learning task between olfactory and visual-auditory stimuli.
 - Developed Transformer-based Domain-Adversarial Neural Network (DANN) and outperformed conventional methods.
@@ -103,7 +102,7 @@ _Under review_
 
 Jiaqi Wang\*, Zhengting Chen\*, Keyan Huang, Yifan Wu, Dian Zhang, **Jizhou Guo**, Xinglan Liu, Dan Peng, Baoliang Lu, Weilong Zheng
 
-_Under review_
+_EMBC 2025_ (Research posters abstract)
 
 - Designed and executed experiments to predict human emotions from EEG signals under various olfactory stimuli.
 - Implemented and compared multiple deep learning models (MLP, CNN, Transformer).
