@@ -79,7 +79,7 @@ _NeurIPS 2024_
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/dann.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMBC 2025</div><img src='images/dann.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Cross-Stimulus Transfer Learning: Enhancing Emotion Recognition from Visual-Auditory to Olfactory Perception**
@@ -95,7 +95,7 @@ _EMBC 2025_ (Full Contributed paper)
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/eeg.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMBC 2025</div><img src='images/eeg.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **EEG-based Emotion Recognition in an Olfactory Stimulation Paradigm**
