@@ -89,7 +89,7 @@ Jiaqi Wang\*, Zhengting Chen\*, Keyan Huang, Yifan Wu, Dian Zhang, **Jizhou Guo*
 _EMBC 2025_ (Full Contributed paper)
 
 - Designed a cross-stimulus transfer learning task between olfactory and visual-auditory stimuli.
-- Developed Transformer-based Domain-Adversarial Neural Network (DANN) and outperformed conventional methods.
+- Adopted Transformer-based Domain-Adversarial Neural Network (DANN) and outperformed conventional methods.
 
 </div>
 </div>
