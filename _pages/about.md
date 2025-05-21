@@ -119,7 +119,7 @@ _EMBC 2025_ (Full Contributed paper)
 
 Jiaqi Wang\*, Zhengting Chen\*, Keyan Huang, Yifan Wu, Dian Zhang, **Jizhou Guo**, Xinglan Liu, Dan Peng, Baoliang Lu, Weilong Zheng
 
-_EMBC 2025_ (Research posters abstract)     _In submission to main conference_
+_EMBC 2025_ (Research posters abstract), _In submission to main conference_
 
 - Designed and executed experiments to predict human emotions from EEG signals under various olfactory stimuli.
 - Implemented and compared multiple deep learning models (MLP, CNN, Transformer).
