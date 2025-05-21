@@ -37,6 +37,7 @@ My research interests are primarily focused on Large Language Models and Foundat
 </p>
 
 # 🔥 News
+- *2025.05*: &nbsp; Check out <a href="https://arxiv.org/abs/2505.12225">ELHSR</a>, a highly efficient reward model for LLMs.
 - *2025.04*: &nbsp; 🎉Our work _Cross-Stimulus Transfer Learning_ and _Olfactory EEG_ are accepted to EMBC 2025! 🎉
 - *2024.10*: &nbsp; Our work <a href="https://arxiv.org/abs/2410.10481">Llamdex</a> is on arXiv!
 - *2024.09*: &nbsp; 🎉Our work <a href="https://arxiv.org/abs/2405.18711">Internal Consistency</a> is accepted to NeurIPS 2024! 🎉
@@ -44,6 +45,22 @@ My research interests are primarily focused on Large Language Models and Foundat
 
 # 📝 Publications 
 _<sup>*</sup> denotes equal contribution_
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/elhsr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Reward Inside the Model: A Lightweight Hidden-State Reward Model for LLM's Best-of-N sampling**
+
+**Jizhou Guo**, Zhaomin Wu, Philip S. Yu
+
+_Under review_
+
+[[arXiv]](https://arxiv.org/abs/2505.12225)
+
+- Proposed _ELHSR_, a highly parameter-efficient reward model leveraging the LLM hidden states, which **systematically outperforms baselines** with **less than 0.005\% of the parameters** of baselines, resulting in orders-of-magnitude efficiency improvement.
+- ELHSR also performs well with limited data, extends to logit-only training for certain closed-source LLMs, and can be combined with conventional reward models to yield further performance improvements.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/dp_knowledge_transfer.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -56,7 +73,7 @@ _Under review_
 
 [[arXiv]](https://arxiv.org/abs/2410.10481)
 
-- Proposed **Llamdex**, a novel framework that integrates privacy-preserving, domain-specific models into LLMs.
+- Proposed _Llamdex_, a novel framework that integrates privacy-preserving, domain-specific models into LLMs.
 - Demonstrated significant performance gains in domain-specific tasks, **with up to 26% accuracy improvement** while maintaining differential privacy guarantees.
 - Achieved comparable inference efficiency to base LLMs while enhancing domain-specific capabilities.
 </div>
@@ -74,7 +91,7 @@ _NeurIPS 2024_
 
 [[arXiv]](https://arxiv.org/abs/2405.18711) [[poster]](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/93260.png) [[code]](https://github.com/zhxieml/internal-consistency)
 
-- Developed a novel "**internal consistency**" approach to calibrate reasoning in LLMs, **resulting in a significant boost in reasoning performance** without requiring additional training.
+- Developed a novel "_internal consistency_" approach to calibrate reasoning in LLMs, **resulting in a significant boost in reasoning performance** without requiring additional training.
 - Conducted in-depth analysis of Chain-of-Thought (CoT) reasoning in LLMs through the lens of internal representations. 
 </div>
 </div>
@@ -102,7 +119,7 @@ _EMBC 2025_ (Full Contributed paper)
 
 Jiaqi Wang\*, Zhengting Chen\*, Keyan Huang, Yifan Wu, Dian Zhang, **Jizhou Guo**, Xinglan Liu, Dan Peng, Baoliang Lu, Weilong Zheng
 
-_EMBC 2025_ (Research posters abstract)
+_EMBC 2025_ (Research posters abstract)     _In submission to main conference_
 
 - Designed and executed experiments to predict human emotions from EEG signals under various olfactory stimuli.
 - Implemented and compared multiple deep learning models (MLP, CNN, Transformer).
