@@ -57,7 +57,7 @@ _Under review_
 
 [[arXiv]](https://arxiv.org/abs/2505.12225)
 
-- Proposed _ELHSR_, a highly parameter-efficient reward model leveraging the LLM hidden states, which **systematically outperforms baselines** with **less than 0.005\% of the parameters** of baselines, resulting in orders-of-magnitude efficiency improvement.
+- Proposed _ELHSR_, a highly parameter-efficient reward model leveraging the LLM hidden states, which **systematically outperforms baselines** with **less than 0.005% of the parameters** of baselines, resulting in orders-of-magnitude efficiency improvement.
 - ELHSR also performs well with limited data, extends to logit-only training for certain closed-source LLMs, and can be combined with conventional reward models to yield further performance improvements.
 </div>
 </div>
