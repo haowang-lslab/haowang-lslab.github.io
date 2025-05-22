@@ -75,8 +75,7 @@ _Under review_
 [[arXiv]](https://arxiv.org/abs/2410.10481)
 
 - Proposed _Llamdex_, a novel framework that integrates privacy-preserving, domain-specific models into LLMs.
-- Demonstrated significant performance gains in domain-specific tasks, **with up to 26% accuracy improvement** while maintaining differential privacy guarantees.
-- Achieved comparable inference efficiency to base LLMs while enhancing domain-specific capabilities.
+- Achieved substantial performance improvements in domain-specific tasks, **boosting accuracy by up to 26%** while preserving privacy and maintaining efficiency on par with the base LLM.
 </div>
 </div>
 
