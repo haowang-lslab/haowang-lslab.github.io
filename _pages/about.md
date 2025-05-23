@@ -63,10 +63,10 @@ _Under review_
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/dp_knowledge_transfer.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/llamdex.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Model-Based Privacy-Preserving Knowledge Transfer for Large Language Models**
+**Model-based Large Language Model Customization as Service**
 
 Zhaomin Wu\*, **Jizhou Guo**\*, Junyi Hou, Bingsheng He, Lixin Fan, Qiang Yang
 
@@ -74,7 +74,7 @@ _Under review_
 
 [[arXiv]](https://arxiv.org/abs/2410.10481)
 
-- Proposed _Llamdex_, a novel framework that integrates privacy-preserving, domain-specific models into LLMs.
+- Proposed _Llamdex_, a novel framework that facilitates LLM customization as a service for domain-specific applications.
 - Achieved substantial performance improvements in domain-specific tasks, **boosting accuracy by up to 26%** while preserving privacy and maintaining efficiency on par with the base LLM.
 </div>
 </div>
