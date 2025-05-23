@@ -127,7 +127,7 @@ _EMBC 2025_ (Research posters abstract), _In submission to main conference_
 </div>
 </div>
 
-# 📚 Course Projects
+# 📚 Selected Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/2aRNN_model.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -136,14 +136,14 @@ _EMBC 2025_ (Research posters abstract), _In submission to main conference_
 
 **Jizhou Guo**, Liting Pang, Zhaoyu Zhu, Ziyi Xu
 
-[[PDF]](assets/pdf/2aRNN_report.pdf)
+[[PDF]](assets/pdf/2aRNN_report.pdf) [[code]](https://github.com/aster2024/2aRNN)
 
 - Proposed a novel **Two-Area RNN** architecture for context-dependent decision-making tasks.
 
 </div>
 </div>
 
-I have completed additional course projects as well; please refer to my [CV](assets/pdf/CV_Jizhou_Guo.pdf) for details.
+Beyond this project, I have also completed work on SplitNN implementation, a review of AlphaGo, and validation of the Frequency Principle. Please refer to my [CV](assets/pdf/CV_Jizhou_Guo.pdf) for further details.
 
 # 🌍 Services
 
