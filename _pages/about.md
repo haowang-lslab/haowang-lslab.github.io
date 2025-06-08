@@ -45,81 +45,10 @@ My research interests are primarily focused on Large Language Models and Foundat
 - *2024.05*: &nbsp; Our work <a href="https://arxiv.org/abs/2405.18711">Internal Consistency</a> is on arXiv!
 
 # 📝 Publications 
-_<sup>*</sup> denotes equal contribution_
+-
 
-**Reward Inside the Model: A Lightweight Hidden-State Reward Model for LLM's Best-of-N sampling**
+-
 
-**Jizhou Guo**, Zhaomin Wu, Philip S. Yu
-
-_Under review_
-
-[[arXiv]](https://arxiv.org/abs/2505.12225)
-
-- Proposed _ELHSR_, a highly parameter-efficient reward model leveraging the LLM hidden states, which **systematically outperforms baselines** with **less than 0.005% of the parameters** of baselines, resulting in orders-of-magnitude efficiency improvement.
-- ELHSR also performs well with limited data, extends to logit-only training for certain closed-source LLMs, and can be combined with conventional reward models to yield further performance improvements.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/llamdex.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Model-based Large Language Model Customization as Service**
-
-Zhaomin Wu\*, **Jizhou Guo**\*, Junyi Hou, Bingsheng He, Lixin Fan, Qiang Yang
-
-_Under review_ 
-
-[[arXiv]](https://arxiv.org/abs/2410.10481)
-
-- Proposed _Llamdex_, a novel framework that facilitates LLM customization as a service for domain-specific applications.
-- Achieved substantial performance improvements in domain-specific tasks, **boosting accuracy by up to 26%** while preserving privacy and maintaining efficiency on par with the base LLM.
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/internal_consistency.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Calibrating Reasoning in Language Models with Internal Consistency**
-
-Zhihui Xie, **Jizhou Guo**, Tong Yu, Shuai Li
-
-_NeurIPS 2024_
-
-[[arXiv]](https://arxiv.org/abs/2405.18711) [[poster]](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/93260.png) [[code]](https://github.com/zhxieml/internal-consistency)
-
-- Developed a novel "_internal consistency_" approach to calibrate reasoning in LLMs, **resulting in a significant boost in reasoning performance** without requiring additional training.
-- Conducted in-depth analysis of Chain-of-Thought (CoT) reasoning in LLMs through the lens of internal representations. 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMBC 2025</div><img src='images/dann.png' alt="sym" width="70%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Cross-Stimulus Transfer Learning: Enhancing Emotion Recognition from Visual-Auditory to Olfactory Perception**
-
-Jiaqi Wang\*, Zhengting Chen\*, Keyan Huang, Yifan Wu, Dian Zhang, **Jizhou Guo**, Xinglan Liu, Dan Peng, Baoliang Lu, Weilong Zheng
-
-_EMBC 2025_ (Full Contributed paper)
-
-- Designed a cross-stimulus transfer learning task between olfactory and visual-auditory stimuli.
-- Adopted Transformer-based Domain-Adversarial Neural Network (DANN) and outperformed conventional methods.
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMBC 2025</div><img src='images/eeg.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**EEG-based Emotion Recognition in an Olfactory Stimulation Paradigm**
-
-Jiaqi Wang\*, Zhengting Chen\*, Keyan Huang, Yifan Wu, Dian Zhang, **Jizhou Guo**, Xinglan Liu, Dan Peng, Baoliang Lu, Weilong Zheng
-
-_EMBC 2025_ (Research posters abstract), _In submission to main conference_
-
-- Designed and executed experiments to predict human emotions from EEG signals under various olfactory stimuli.
-- Implemented and compared multiple deep learning models (MLP, CNN, Transformer).
 
 </div>
 </div>
