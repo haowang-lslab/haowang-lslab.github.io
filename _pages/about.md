@@ -46,13 +46,11 @@ My research interests are primarily focused on Large Language Models and Foundat
 
 # 📝 Selected Publications 
 <ol>
+<li> Hao Wang, Kevin Köser, Peng Ren.Large Foundation Model Empowered Discriminative Underwater Image Enhancement. <strong><ud2>IEEE Transactions on Geoscience and Remote Sensing<strong><ud2>, 2025. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10824846" target="_blank"><font color="#1C86EE">[PDF]
 <li> Hao Wang, Kevin Köser, Peng Ren.Large Foundation Model Empowered Discriminative Underwater Image Enhancement. <strong><ud2>IEEE Transactions on Geoscience and Remote Sensing<strong><ud2>, 2025.
-
--
-
+<li> Hao Wang, Kevin Köser, Peng Ren.Large Foundation Model Empowered Discriminative Underwater Image Enhancement. <strong><ud2>IEEE Transactions on Geoscience and Remote Sensing<strong><ud2>, 2025.
 </ol>
-</div>
-</div>
+
 
 # 📚 Selected Projects
 
