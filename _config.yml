@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jizhou Guo"
+title                    : "Hao Wang"
 description              : ""
-repository               : "aster2024/aster2024.github.io"
+repository               : "haowang-lslab/haowang-lslab.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jizhou Guo"
-  avatar           : "images/avatar.jpg"
-  bio              : "Shanghai Jiao Tong University"
-  location         : "Shanghai, China"
+  name             : "Hao Wang"
+  avatar           : "images/Hao_Wang.jpg"
+  bio              : "Laoshan Laboratory"
+  location         : "Qingdao, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=fcBDdsYAAAAJ"
-  email            : "sjtu18640985163@sjtu.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jizhou-Guo"
+  googlescholar    : "https://scholar.google.com/citations?user=YtKE4AYAAAAJ&hl=zh-CN&oi=ao"
+  email            : "wangh_upc@163.com"
+  researchgate     : "https://www.researchgate.net/profile/Wang_Hao170"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "aster2024" # e.g., "github username"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jizhou-guo-6971b6277" # e.g., "linkedin username"
+  linkedin         : 
   dblp             : "https://dblp.org/pid/378/4049.html"
   orcid            : "https://orcid.org/0009-0001-0699-9164"
   pinterest        :
