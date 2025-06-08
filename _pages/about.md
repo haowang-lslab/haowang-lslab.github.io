@@ -47,9 +47,6 @@ My research interests are primarily focused on Large Language Models and Foundat
 # 📝 Publications 
 _<sup>*</sup> denotes equal contribution_
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/elhsr.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 **Reward Inside the Model: A Lightweight Hidden-State Reward Model for LLM's Best-of-N sampling**
 
 **Jizhou Guo**, Zhaomin Wu, Philip S. Yu
