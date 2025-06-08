@@ -44,12 +44,13 @@ My research interests are primarily focused on Large Language Models and Foundat
 - *2024.09*: &nbsp; 🎉Our work <a href="https://arxiv.org/abs/2405.18711">Internal Consistency</a> is accepted to NeurIPS 2024! 🎉
 - *2024.05*: &nbsp; Our work <a href="https://arxiv.org/abs/2405.18711">Internal Consistency</a> is on arXiv!
 
-# 📝 Publications 
--
+# 📝 Selected Publications 
+<ol>
+<li> Hao Wang, Kevin Köser, Peng Ren.Large Foundation Model Empowered Discriminative Underwater Image Enhancement. <strong><ud2>IEEE Transactions on Geoscience and Remote Sensing<strong><ud2>, 2025.
 
 -
 
-
+</ol>
 </div>
 </div>
 
