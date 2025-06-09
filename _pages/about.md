@@ -15,11 +15,32 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hao Wang Homepage</title>
+  <style>
+    h1 {
+      font-size: 28px;
+      font-weight: bold;
+    }
+    p {
+      font-size: 18px;
+      line-height: 1.6;
+      max-width: 800px;
+    }
+  </style>
+</head>
+<body>
+
 <h1>Welcome to Hao Wang (王浩)'s Homepage</h1>
 
 <p>
-I am an Assistant Professor at [Your University], China. I was a Research Fellow at [Previous Institution 1] and [Previous Institution 2]. I received my Ph.D. from [PhD University] and was also a visiting scholar at [Visiting University].
+I am an Assistant Professor at [Your University], China. I was a Research Fellow at [Institution 1] and [Institution 2]. I obtained my Ph.D. from [PhD University] and also conducted visiting research at [Visiting Institution].
 </p>
+
+</body>
+</html>
 
 # 🔥 News
 - *2025.05*: &nbsp; Check out <a href="https://arxiv.org/abs/2505.12225">ELHSR</a>, a highly efficient reward model for LLMs.
