@@ -16,12 +16,15 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+<h2>
+<a id="Biography-page" class="anchor" href="#biography-pages" aria-hidden="true"><span class="octicon octicon-link"></span></a>Welcome to Hao Wang (王浩)'s Homepage</h2>
+<div style="text-align: justify; display: block; margin-right: auto;">
+<p>
+<br>I am an Assistant Professor at Laoshan Laboratory, China. I was a joint Ph.D. student at ANU and TJU.
 
-I am an Assistant Professor at Laoshan Laboratory, China. I was a joint Ph.D. student at ANU and TJU.
+<hr />
+</p>
 
-Besides research, I've excelled in competitive programming, winning awards in OI, ICPC, CCPC and various other contests, under the guidance of <a href="https://apex.sjtu.edu.cn/members/yyu">Prof. Yong Yu</a>. See my <a href="assets/pdf/CV_Jizhou_Guo.pdf">CV</a> for details.
-
-My research interests are primarily focused on Large Language Models and Foundation Models. I'm always eager to engage in discussions about these topics, so please feel free to reach out if you'd like to chat!
 
 # 🔥 News
 - *2025.05*: &nbsp; Check out <a href="https://arxiv.org/abs/2505.12225">ELHSR</a>, a highly efficient reward model for LLMs.
