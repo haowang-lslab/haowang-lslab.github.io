@@ -31,7 +31,7 @@ redirect_from:
 <div class="intro-section">
   <h1>Welcome to Hao Wang (王浩)'s Homepage</h1>
   <p>
-    I am an Assistant Professor at <strong>Laoshan Laboratory</strong>strong>, China. I was a joint Ph.D. student at GEOMAR Helmholtz Centre for Ocean Research Kiel and Kiel University, Germany.
+    I am an Assistant Professor at <strong>Laoshan Laboratory</strong>, China. I was a joint Ph.D. student at GEOMAR Helmholtz Centre for Ocean Research Kiel and Kiel University, Germany.
   </p>
 </div>
 
