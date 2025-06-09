@@ -63,5 +63,5 @@ redirect_from:
 Invited as reviewer: EMBC 2025
 
 # 🎖 Selected Honors and Awards
-- *2025.04* <strong><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10969974" target="_blank">IEEE Journal of Oceanic Engineering's Outstanding Reviewers.</strong>
+- *2025.04* <strong><a href="https://ieeeoes.org/publications/journal-of-oceanic-engineering/" target="_blank">IEEE Journal of Oceanic Engineering's Outstanding Reviewers.</a></strong>
 
