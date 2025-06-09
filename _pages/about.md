@@ -15,10 +15,11 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
-<h2><a id="Biography-page" class="anchor" href="#biography-pages" aria-hidden="true"><span class="octicon octicon-link"></span></a>Welcome to Hao Wang (王浩)'s Homepage</h2>
-<div style="text-align: justify; display: block; margin-right: auto;">
-<p>I am an Assistant Professor at Laoshan Laboratory, China. I was a joint Ph.D. student at ANU and TJU.</p>
+<h1>Welcome to Hao Wang (王浩)'s Homepage</h1>
+
+<p>
+I am an Assistant Professor at [Your University], China. I was a Research Fellow at [Previous Institution 1] and [Previous Institution 2]. I received my Ph.D. from [PhD University] and was also a visiting scholar at [Visiting University].
+</p>
 
 # 🔥 News
 - *2025.05*: &nbsp; Check out <a href="https://arxiv.org/abs/2505.12225">ELHSR</a>, a highly efficient reward model for LLMs.
