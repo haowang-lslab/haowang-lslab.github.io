@@ -24,7 +24,6 @@ redirect_from:
   .intro-section p {
     font-size: 18px;
     line-height: 1.6;
-    max-width: 800px;
   }
 </style>
 
