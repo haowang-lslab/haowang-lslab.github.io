@@ -30,7 +30,7 @@ redirect_from:
 <div class="intro-section">
   <h1>Welcome to Hao Wang (王浩)'s Homepage</h1>
   <p>
-    I am an Assistant Professor at <strong>Laoshan Laboratory</strong>, China. I was a joint Ph.D. student at GEOMAR Helmholtz Centre for Ocean Research Kiel and Kiel University, Germany.
+    I am an Assistant Professor at <strong>Laoshan Laboratory</strong>, China. I was a visiting Ph.D. student at GEOMAR Helmholtz Centre for Ocean Research Kiel and Kiel University, Germany.
   </p>
 </div>
 
@@ -54,9 +54,10 @@ redirect_from:
 
 # 📚 Educations
 
-### China University of Petroleum (East China)
-
-2020 - 2025  
+- 2024 - 2025, Visiting PhD, GEOMAR Helmholtz Centre for Ocean Research Kiel and Kiel University, Germany.
+- 2020 - 2025, PhD in Control Science and Engineering, China University of Petroleum (East China), China.
+- 2017 - 2020, MEng in Control Engineering, Qingdao University of Technology, China.
+- 2013 - 2017, BEng in Automation, Qingdao University of Technology, China.
 
 # 🌍 Services
 
