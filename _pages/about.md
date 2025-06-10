@@ -59,10 +59,12 @@ redirect_from:
 - 2017 - 2020, MEng in Control Engineering, Qingdao University of Technology, China.
 - 2013 - 2017, BEng in Automation, Qingdao University of Technology, China.
 
-# 🌍 Services
+# 🌍 Academic Services
 
-Invited as reviewer: EMBC 2025
+### Served as a reviewer for over 40 academic journals and reviewed more than 150 manuscripts.
+2023 - Now, IEEE Transactions on Geoscience and Remote Sensing, Information Fusion, IEEE Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Knowledge-Based Systems, Engineering Applications of Artificial Intelligence, Neural Networks, Artificial Intelligence Review, Optics and Laser Technology, Applied Ocean Research, Remote Sensing, IEEE Journal of Oceanic Engineering, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, etc., Continuous Reviewer. 
+
 
 # 🎖 Selected Honors and Awards
-- *2025.04* <strong><a href="https://xplorestaging.ieee.org/stamp/stamp.jsp?tp=&arnumber=10969974" target="_blank">IEEE Journal of Oceanic Engineering's Outstanding Reviewers</a></strong>.
+- 2025.04, <strong><a href="https://xplorestaging.ieee.org/stamp/stamp.jsp?tp=&arnumber=10969974" target="_blank">IEEE Journal of Oceanic Engineering's Outstanding Reviewers</a></strong>.
 
