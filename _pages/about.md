@@ -35,7 +35,7 @@ redirect_from:
 </div>
 
 # 🔥 News
-- 2025.01, 🎉Our work <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10824846">Large Foundation Model Empowered Discriminative Underwater Image Enhancement</a> is accepted to <strong><i>IEEE Transactions on Geoscience and Remote Sensing</i></strong>! 🎉
+- 2025.01, 🎉Our work "<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10824846">Large Foundation Model Empowered Discriminative Underwater Image Enhancement</a>" has been accepted by <strong><i>IEEE Transactions on Geoscience and Remote Sensing</i></strong>! 🎉
 
 # 📝 Publications 
 - <strong><u>Hao Wang</u></strong>, Kevin Köser, Peng Ren. Large Foundation Model Empowered Discriminative Underwater Image Enhancement. <strong><i>IEEE Transactions on Geoscience and Remote Sensing</i></strong>, 2025. [<strong style="color:red;">ESI Hot Paper</strong>] <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10824846" target="_blank"><font color="#1C86EE">[PDF]
