@@ -62,7 +62,7 @@ redirect_from:
 # 🌍 Academic Services
 
 ### Served as a reviewer for over 40 academic journals and reviewed more than 200 manuscripts.
-2023 - Now, IEEE Transactions on Geoscience and Remote Sensing, Information Fusion, IEEE Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Knowledge-Based Systems, Engineering Applications of Artificial Intelligence, Neural Networks, Artificial Intelligence Review, Optics and Laser Technology, Infrared Physics and Technology, Applied Ocean Research, Remote Sensing, IEEE Journal of Oceanic Engineering, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, etc., Continuous Reviewer. 
+- 2023 - Present, IEEE Transactions on Geoscience and Remote Sensing, Information Fusion, IEEE Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Knowledge-Based Systems, Engineering Applications of Artificial Intelligence, Neural Networks, Artificial Intelligence Review, Optics and Laser Technology, Infrared Physics and Technology, Applied Ocean Research, Remote Sensing, IEEE Journal of Oceanic Engineering, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, etc., Continuous Reviewer. 
 
 
 # 🎖 Selected Honors and Awards
