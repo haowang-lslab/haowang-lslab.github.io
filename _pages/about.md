@@ -35,11 +35,7 @@ redirect_from:
 </div>
 
 # 🔥 News
-- *2025.05*: &nbsp; Check out <a href="https://arxiv.org/abs/2505.12225">ELHSR</a>, a highly efficient reward model for LLMs.
-- *2025.04*: &nbsp; 🎉Our work _Cross-Stimulus Transfer Learning_ and _Olfactory EEG_ are accepted to EMBC 2025! 🎉
-- *2024.10*: &nbsp; Our work <a href="https://arxiv.org/abs/2410.10481">Llamdex</a> is on arXiv!
-- *2024.09*: &nbsp; 🎉Our work <a href="https://arxiv.org/abs/2405.18711">Internal Consistency</a> is accepted to NeurIPS 2024! 🎉
-- *2024.05*: &nbsp; Our work <a href="https://arxiv.org/abs/2405.18711">Internal Consistency</a> is on arXiv!
+- 2025.01, 🎉Our work <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10824846">Large Foundation Model Empowered Discriminative Underwater Image Enhancement</a> is accepted to <strong><i>IEEE Transactions on Geoscience and Remote Sensing</i></strong>! 🎉
 
 # 📝 Publications 
 - <strong><u>Hao Wang</u></strong>, Kevin Köser, Peng Ren. Large Foundation Model Empowered Discriminative Underwater Image Enhancement. <strong><i>IEEE Transactions on Geoscience and Remote Sensing</i></strong>, 2025. [<strong style="color:red;">ESI Hot Paper</strong>] <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10824846" target="_blank"><font color="#1C86EE">[PDF]
