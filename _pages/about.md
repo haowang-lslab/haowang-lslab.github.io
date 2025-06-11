@@ -30,7 +30,8 @@ redirect_from:
 <div class="intro-section" id='about-me'>
   <h1>Welcome to Hao Wang (王浩)'s Homepage</h1>
   <p>
-    I am an Assistant Professor at <strong>Laoshan Laboratory</strong>, China.
+    I am an Assistant Professor at <a href="https://lslab.ac.cn" style="text-decoration: none; font-weight: bold; color: #1a1a1a;">
+  Laoshan Laboratory</a>, China.
   </p>
 </div>
 
