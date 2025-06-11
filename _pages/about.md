@@ -27,11 +27,10 @@ redirect_from:
     line-height: 1.6;
     text-align: justify;
   }
-  p {
-  text-align: justify;
-  line-height: 1.7;
-  letter-spacing: 0.3px;
-}
+    p, li {
+    text-align: justify;
+    line-height: 1.7;
+  }
 </style>
 
 <div class="intro-section" id='about-me'>
