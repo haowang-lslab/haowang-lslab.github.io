@@ -73,8 +73,10 @@ redirect_from:
 - Shixin Sun, <strong><u>Hao Wang</u></strong>, Xiaohui Wu, Li Li, Hao Zhang, Mingjie Li, Peng Ren. Underwater Color Correction via Deep Reinforcement Learning. <strong><i>OCEANS 2021: San Diego – Porto</i></strong>, 2021. [<strong style="color:red;">OCEANS Popular Articles</strong>] <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9706132" target="_blank"><font color="#1C86EE">[PDF]
 
 # 📚 Educations
-- 2020 - 2025, PhD in Control Science and Engineering, China University of Petroleum (East China), China.<br>
-               &emsp;PhD Thesis: Underwater Optical Observation Enhancement With Reinforcement Learning
+  <li>
+    2020 - 2025, PhD in Control Science and Engineering, China University of Petroleum (East China), China.<br>
+    &emsp;PhD Thesis: <i>Underwater Optical Observation Enhancement With Reinforcement Learning</i>
+  </li>
 - 2024 - 2025, Visiting PhD, GEOMAR Helmholtz Centre for Ocean Research Kiel and Kiel University, Germany.
 - 2017 - 2020, MEng in Control Engineering, Qingdao University of Technology, China.
 - 2013 - 2017, BEng in Automation, Qingdao University of Technology, China.
