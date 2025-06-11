@@ -74,7 +74,7 @@ redirect_from:
 
 # 📚 Educations
 - 2020 - 2025, PhD in Control Science and Engineering, China University of Petroleum (East China), China.<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;PhD Thesis: Underwater Optical Observation Enhancement With Reinforcement Learning
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PhD Thesis: Underwater Optical Observation Enhancement With Reinforcement Learning
 - 2024 - 2025, Visiting PhD, GEOMAR Helmholtz Centre for Ocean Research Kiel and Kiel University, Germany.
 - 2017 - 2020, MEng in Control Engineering, Qingdao University of Technology, China.
 - 2013 - 2017, BEng in Automation, Qingdao University of Technology, China.
