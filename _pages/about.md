@@ -31,7 +31,7 @@ redirect_from:
   <h1>Welcome to Hao Wang (王浩)'s Homepage</h1>
   <p>
     I am an Assistant Professor at <a href="https://lslab.ac.cn" style="text-decoration: none; font-weight: bold; color: #1a1a1a;">
-  Laoshan Laboratory</a>, China.
+  Laoshan Laboratory</a>, China. Laoshan Laboratory is China’s national laboratory for ocean science and technology, where I conduct research in ocean observation.
   </p>
 </div>
 
