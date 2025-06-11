@@ -68,8 +68,8 @@ redirect_from:
 
 # 📚 Educations
 
-- 2024 - 2025, Visiting PhD, GEOMAR Helmholtz Centre for Ocean Research Kiel and Kiel University, Germany.
 - 2020 - 2025, PhD in Control Science and Engineering, China University of Petroleum (East China), China.
+- 2024 - 2025, Visiting PhD, GEOMAR Helmholtz Centre for Ocean Research Kiel and Kiel University, Germany.
 - 2017 - 2020, MEng in Control Engineering, Qingdao University of Technology, China.
 - 2013 - 2017, BEng in Automation, Qingdao University of Technology, China.
 
