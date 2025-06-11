@@ -27,7 +27,7 @@ redirect_from:
   }
 </style>
 
-<div class="intro-section">
+<div class="intro-section" id='about-me'>
   <h1>Welcome to Hao Wang (王浩)'s Homepage</h1>
   <p>
     I am an Assistant Professor at <strong>Laoshan Laboratory</strong>, China.
