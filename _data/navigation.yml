@@ -7,24 +7,12 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-selected-publications"
-
-  - title: "Projects"
-    url: "/#-selected-projects"
+    url: "/#-publications"
 
   - title: "Services"
-    url: "/#-services"
-
-  - title: "Experience"
-    url: "/#-experience"
+    url: "/#-academic-services"
 
   - title: "Honors and Awards"
     url: "/#-selected-honors-and-awards"
-
-  - title: "Misc."
-    url: "/#-miscellaneous"
-
-  - title: "CV (PDF)"
-    url: "/assets/pdf/CV_Jizhou_Guo.pdf"
 
 
