@@ -78,12 +78,9 @@ redirect_from:
 - 2013 - 2017, BEng in Automation, Qingdao University of Technology, China.
 
 # 🌍 Academic Services
-<div class="justify-text">
 ### Served as a reviewer for over 40 academic journals and reviewed more than 200 manuscripts.
 - 2023 - Present, IEEE Transactions on Geoscience and Remote Sensing, Information Fusion, IEEE Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Knowledge-Based Systems, Engineering Applications of Artificial Intelligence, Neural Networks, Artificial Intelligence Review, Optics and Laser Technology, Infrared Physics and Technology, Applied Ocean Research, Remote Sensing, IEEE Journal of Oceanic Engineering, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, etc., Continuous Reviewer. 
-</div>
 
 # 🎖 Selected Honors and Awards
-<div class="justify-text">
 - Apr. 2025, 🎖️<strong><a href="https://xplorestaging.ieee.org/stamp/stamp.jsp?tp=&arnumber=10969974" target="_blank" style="text-decoration: none;">IEEE Journal of Oceanic Engineering's Outstanding Reviewers</a></strong>.
-</div>
+
