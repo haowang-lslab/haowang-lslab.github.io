@@ -27,8 +27,9 @@ redirect_from:
     line-height: 1.6;
     text-align: justify;
   }
-  .justify-text {
+ li {
   text-align: justify;
+  line-height: 1.7;
 }
 </style>
 
