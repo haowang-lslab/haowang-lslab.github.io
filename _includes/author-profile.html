@@ -8,17 +8,11 @@
     <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
   </div>
   
-<style>
-  .author__name {
-    font-size: 30px;
-    font-weight: bold;
-  }
-</style>
   
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %} <h3 class="author__bio">{{ author.bio }}</h3>{% endif %}
-    {% if author.email1 %}  <p class="author__email1">{{ author.email1 }} </p>{% endif %}
+    {% if author.email1 %}  <h3 class="author__email1">{{ author.email1 }}</h3>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
