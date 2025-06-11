@@ -14,11 +14,7 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-<style>
-p {
-  text-align: justify;
-}
-</style>
+
 
 <style>
   .intro-section h1 {
@@ -29,7 +25,13 @@ p {
   .intro-section p {
     font-size: 18px;
     line-height: 1.6;
+    text-align: justify;
   }
+  p {
+  text-align: justify;
+  line-height: 1.7;
+  letter-spacing: 0.3px;
+}
 </style>
 
 <div class="intro-section" id='about-me'>
