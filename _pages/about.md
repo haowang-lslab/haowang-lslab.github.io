@@ -88,9 +88,10 @@ redirect_from:
 ## 📝 Peer Review Experience
 ### Served as a reviewer for over 40 academic journals and reviewed more than 200 manuscripts.
 **Continuous Reviewer** (2023 – Present) for:
-- IEEE Transactions on Geoscience and Remote Sensing
 - Information Fusion
+- IEEE Transactions on Geoscience and Remote Sensing
 - IEEE Transactions on Circuits and Systems for Video Technology
+- IEEE Transactions on Artificial Intelligence
 - Pattern Recognition
 - Knowledge-Based Systems
 - Engineering Applications of Artificial Intelligence
