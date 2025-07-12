@@ -83,12 +83,25 @@ redirect_from:
 - 2013 - 2017, BEng in Automation, Qingdao University of Technology, China.
 
 # 🌍 Academic Services
-## 👨‍💼Editorial Roles
-- **2025 – Present**: *Associate Editor*, [Frontiers in Imaging](https://www.frontiersin.org/journals/imaging)
-
+## 👨‍💼 Editorial Roles
+- **2025 – Present**, [Associate Editor](https://www.frontiersin.org/journals/imaging/editors), Frontiers in Imaging.
+## 📝 Peer Review Experience
 ### Served as a reviewer for over 40 academic journals and reviewed more than 200 manuscripts.
-- 2025 - Present, Frontiers in Imaging, Associate Editor.
-- 2023 - Present, IEEE Transactions on Geoscience and Remote Sensing, Information Fusion, IEEE Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Knowledge-Based Systems, Engineering Applications of Artificial Intelligence, Neural Networks, Artificial Intelligence Review, Optics and Laser Technology, Infrared Physics and Technology, Applied Ocean Research, Remote Sensing, IEEE Journal of Oceanic Engineering, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, etc., Continuous Reviewer. 
+**Continuous Reviewer** (2023 – Present) for:
+- IEEE Transactions on Geoscience and Remote Sensing
+- Information Fusion
+- IEEE Transactions on Circuits and Systems for Video Technology
+- Pattern Recognition
+- Knowledge-Based Systems
+- Engineering Applications of Artificial Intelligence
+- Neural Networks
+- Artificial Intelligence Review
+- Optics and Laser Technology
+- Infrared Physics and Technology
+- Applied Ocean Research
+- IEEE Journal of Oceanic Engineering
+- IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+- ...and more
 
 # 🎖 Selected Honors and Awards
 - Apr. 2025, 🎖️<strong><a href="https://xplorestaging.ieee.org/stamp/stamp.jsp?tp=&arnumber=10969974" target="_blank" style="text-decoration: none;">IEEE Journal of Oceanic Engineering's Outstanding Reviewers</a></strong>.
