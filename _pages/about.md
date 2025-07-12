@@ -84,24 +84,24 @@ redirect_from:
 
 # 🌍 Academic Services
 ## 👨‍💼 Editorial Roles
-- **2025 – Present**, [Associate Editor](https://www.frontiersin.org/journals/imaging/editors), Frontiers in Imaging.
+- **2025 – Present**, <a href="https://www.frontiersin.org/journals/imaging/editors" target="_blank" style="text-decoration: none;">Associate Editor</a>, *Frontiers in Imaging*.
 
 ## 📝 Peer Review Experience (Reviewed over 200 manuscripts for more than 40 academic journals)
-🔄**Continuous Reviewer** (2023 – Present) for:
-- Information Fusion
-- IEEE Transactions on Geoscience and Remote Sensing
-- IEEE Transactions on Circuits and Systems for Video Technology
-- IEEE Transactions on Artificial Intelligence
-- Pattern Recognition
-- Knowledge-Based Systems
-- Engineering Applications of Artificial Intelligence
-- Neural Networks
-- Artificial Intelligence Review
-- Optics and Laser Technology
-- Infrared Physics and Technology
-- Applied Ocean Research
-- IEEE Journal of Oceanic Engineering
-- IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+###🔄**Continuous Reviewer** (2023 – Present) for:
+- *Information Fusion*
+- *IEEE Transactions on Geoscience and Remote Sensing*
+- *IEEE Transactions on Circuits and Systems for Video Technology*
+- *IEEE Transactions on Artificial Intelligence*
+- *Pattern Recognition*
+- *Knowledge-Based Systems*
+- *Engineering Applications of Artificial Intelligence*
+- *Neural Networks*
+- *Artificial Intelligence Review*
+- *Optics and Laser Technology*
+- *Infrared Physics and Technology*
+- *Applied Ocean Research*
+- *IEEE Journal of Oceanic Engineering*
+- *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*
 - ...and more
 
 # 🎖 Selected Honors and Awards
