@@ -102,7 +102,7 @@ redirect_from:
 - *Applied Ocean Research*
 - *IEEE Journal of Oceanic Engineering*
 - *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*
-- ...and more
+- *...and more.*
 
 # 🎖 Selected Honors and Awards
 - Apr. 2025, 🎖️<strong><a href="https://xplorestaging.ieee.org/stamp/stamp.jsp?tp=&arnumber=10969974" target="_blank" style="text-decoration: none;">IEEE Journal of Oceanic Engineering's Outstanding Reviewers</a></strong>.
