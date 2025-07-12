@@ -86,7 +86,7 @@ redirect_from:
 ## 👨‍💼 Editorial Roles
 - **2025 – Present**, [Associate Editor](https://www.frontiersin.org/journals/imaging/editors), Frontiers in Imaging.
 
-## 📝 Peer Review Experience (Served as a reviewer for over 40 academic journals and reviewed more than 200 manuscripts.)
+## 📝 Peer Review Experience (Reviewed over 200 manuscripts for more than 40 academic journals)
 🔄**Continuous Reviewer** (2023 – Present) for:
 - Information Fusion
 - IEEE Transactions on Geoscience and Remote Sensing
