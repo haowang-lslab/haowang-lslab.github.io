@@ -87,7 +87,7 @@ redirect_from:
 - **2025 – Present**, <a href="https://www.frontiersin.org/journals/imaging/editors" target="_blank" style="text-decoration: none;">Associate Editor</a>, *Frontiers in Imaging*.
 
 ## 📝 Peer Review Experience (Reviewed over 200 manuscripts for more than 40 academic journals)
-###🔄**Continuous Reviewer** (2023 – Present) for:
+### 🔄**Continuous Reviewer** (2023 – Present) for:
 - *Information Fusion*
 - *IEEE Transactions on Geoscience and Remote Sensing*
 - *IEEE Transactions on Circuits and Systems for Video Technology*
