@@ -37,7 +37,7 @@ redirect_from:
   <h1>Welcome to Hao Wang (王浩)'s Homepage</h1>
   <p>
     I am an Assistant Professor at <a href="https://lslab.ac.cn" style="text-decoration: none; font-weight: bold; color: #1a1a1a;">
-  Laoshan National Laboratory</a>, China. Laoshan National Laboratory is China’s national laboratory for ocean science and technology, where I conduct research in ocean observation.
+  Laoshan National Laboratory</a>, China. Laoshan National Laboratory is China’s national laboratory for ocean science and technology, where I conduct research in ocean observation and detection.
   </p>
 </div>
 
@@ -109,6 +109,7 @@ redirect_from:
 
 # 🎖 Selected Honors and Awards
 - Apr. 2025, 🎖️<strong><a href="https://xplorestaging.ieee.org/stamp/stamp.jsp?tp=&arnumber=10969974" target="_blank" style="text-decoration: none;">IEEE Journal of Oceanic Engineering's Outstanding Reviewers</a></strong>.
+
 
 
 
