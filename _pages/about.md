@@ -89,6 +89,7 @@ redirect_from:
 ## 📝 Peer Review Experience (Reviewed over 200 manuscripts for more than 40 academic journals)
 ### 🔄**Continuous Reviewer** (2023 – Present) for:
 - *Information Fusion*
+- *IEEE Transactions on Image Processing*
 - *IEEE Transactions on Geoscience and Remote Sensing*
 - *IEEE Transactions on Circuits and Systems for Video Technology*
 - *IEEE Transactions on Artificial Intelligence*
@@ -106,4 +107,5 @@ redirect_from:
 
 # 🎖 Selected Honors and Awards
 - Apr. 2025, 🎖️<strong><a href="https://xplorestaging.ieee.org/stamp/stamp.jsp?tp=&arnumber=10969974" target="_blank" style="text-decoration: none;">IEEE Journal of Oceanic Engineering's Outstanding Reviewers</a></strong>.
+
 
