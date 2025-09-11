@@ -91,7 +91,7 @@ redirect_from:
 - **2025 – Present**, Leading Guest Editor, Special Issue <a href="https://www.mdpi.com/journal/IoT/special_issues/H15AJ7O1UU" target="_blank" style="text-decoration: none;">*"Internet of Underwater Things (IoUT)*"</a>, *IoT*.
 - **2025 – Present**, Handling Editor, *Frontiers in Plant Science*.
   
-## 📝 Peer Review Experience (Reviewed over 200 manuscripts for more than 40 academic journals)
+## 📝 Peer Review Experience (Reviewed over 300 manuscripts for more than 50 academic journals)
 ### 🔄**Continuous Reviewer** (2023 – Present) for:
 - *Information Fusion*
 - *IEEE Transactions on Image Processing*
@@ -112,6 +112,7 @@ redirect_from:
 
 # 🎖 Selected Honors and Awards
 - Apr. 2025, 🎖️<strong><a href="https://xplorestaging.ieee.org/stamp/stamp.jsp?tp=&arnumber=10969974" target="_blank" style="text-decoration: none;">IEEE Journal of Oceanic Engineering's Outstanding Reviewers</a></strong>.
+
 
 
 
