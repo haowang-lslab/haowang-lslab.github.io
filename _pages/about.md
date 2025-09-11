@@ -42,7 +42,7 @@ redirect_from:
 </div>
 
 # 🚀 News
-- Sep. 2025, 🎉Our work "<a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253525007651" style="text-decoration: none;">WaterCycleDiffusion: Visual-textual Fusion Empowered Underwater Image Enhancement</a>" has been accepted by <strong><i>Information Fusion</i></strong>, our work "<a href="" style="text-decoration: none;">Underwater Scene Clarity Reconstruction via Multilayer Information Fusion and Self-Organized Stitching</a>" has been accepted by <strong><i>IEEE Transactions on Circuits and Systems for Video Technology</i></strong>, and our work "<a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197625019931" style="text-decoration: none;">A Comb Concatenation Diffusion Model for Hyperspectral Image Super-resolution</a>" has been accepted by <strong><i>Engineering Applications of Artificial Intelligence</i></strong>! 
+- Sep. 2025, 🎉Our works "<a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253525007651" style="text-decoration: none;">WaterCycleDiffusion: Visual-textual Fusion Empowered Underwater Image Enhancement</a>" (accepted by <strong><i>Information Fusion</i></strong>), "<a href="" style="text-decoration: none;">Underwater Scene Clarity Reconstruction via Multilayer Information Fusion and Self-Organized Stitching</a>" (accepted by <strong><i>IEEE Transactions on Circuits and Systems for Video Technology</i></strong>), and "<a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197625019931" style="text-decoration: none;">A Comb Concatenation Diffusion Model for Hyperspectral Image Super-resolution</a>" (accepted by <strong><i>Engineering Applications of Artificial Intelligence</i></strong>) have been accepted for publication! 
 - Aug. 2025, 👨‍💼I have been appointed as Leading Guest Editor of the Special Issue <a href="https://www.mdpi.com/journal/IoT/special_issues/H15AJ7O1UU" target="_blank" style="text-decoration: none;">*"Internet of Underwater Things (IoUT)"*</a> in the international journal <strong><i>IoT</i></strong>！ Call for papers is now open. 
 - Jul. 2025, 👨‍💼I have been appointed as <a href="https://www.frontiersin.org/journals/imaging/editors" target="_blank" style="text-decoration: none;">Associate Editor</a> of the international journal <strong><i>Frontiers in Imaging</i></strong>！
 - Jul. 2025, 🏆Our works "<a href="https://ieeexplore.ieee.org/abstract/document/10824846" style="text-decoration: none;">Large Foundation Model Empowered Discriminative Underwater Image Enhancement</a>" (<strong><i>IEEE Transactions on Geoscience and Remote Sensing</i></strong>) and "<a href="https://www.sciencedirect.com/science/article/abs/pii/S0924271624004726" style="text-decoration: none;">Underwater image captioning: Challenges, models, and datasets</a>" (<strong><i>ISPRS Journal of Photogrammetry and Remote Sensing</i></strong>) has been newly selected as <strong style="color:red;">ESI Highly Cited Paper</strong>!
@@ -113,6 +113,7 @@ redirect_from:
 
 # 🎖 Selected Honors and Awards
 - Apr. 2025, 🎖️<strong><a href="https://xplorestaging.ieee.org/stamp/stamp.jsp?tp=&arnumber=10969974" target="_blank" style="text-decoration: none;">IEEE Journal of Oceanic Engineering's Outstanding Reviewers</a></strong>.
+
 
 
 
