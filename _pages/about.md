@@ -103,6 +103,7 @@ redirect_from:
 - *IEEE Transactions on Geoscience and Remote Sensing*
 - *IEEE Transactions on Circuits and Systems for Video Technology*
 - *IEEE Transactions on Artificial Intelligence*
+- *Expert Systems With Applications*
 - *Pattern Recognition*
 - *Knowledge-Based Systems*
 - *Engineering Applications of Artificial Intelligence*
@@ -117,6 +118,7 @@ redirect_from:
 
 # 🎖 Selected Honors and Awards
 - Apr. 2025, 🎖️<strong><a href="https://ieeexplore.ieee.org/document/10969974" target="_blank" style="text-decoration: none;">IEEE Journal of Oceanic Engineering's Outstanding Reviewers</a></strong>.
+
 
 
 
