@@ -42,6 +42,7 @@ redirect_from:
 </div>
 
 # 🚀 News
+- Jan. 2026, 🏆Our work "<a href="https://ieeexplore.ieee.org/abstract/document/11062881" style="text-decoration: none;">Underwater Image Captioning with AquaSketch-Enhanced Cross-Scale Information Fusion</a>" (<strong><i>IEEE Transactions on Geoscience and Remote Sensing</i></strong>) has been newly selected as <strong style="color:red;">ESI Highly Cited Paper</strong>!
 - Nov. 2025, 🏆Our work "<a href="https://ieeexplore.ieee.org/abstract/document/10965814" style="text-decoration: none;">MambaHSISR: Mamba Hyperspectral Image Super-Resolution</a>" (<strong><i>IEEE Transactions on Geoscience and Remote Sensing</i></strong>) has been newly selected as <strong style="color:red;">ESI Highly Cited Paper</strong>!
 - Sep. 2025, 🔥Our work "<a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197624005694" style="text-decoration: none;">INSPIRATION: A reinforcement learning-based human visual perception-driven image enhancement paradigm for underwater scenes</a>" (<strong><i>Engineering Applications of Artificial Intelligence</i></strong>) has been newly selected as <strong style="color:red;">ESI Hot Paper</strong>!
 - Sep. 2025, 🎉Our works "<a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253525007651" style="text-decoration: none;">WaterCycleDiffusion: Visual-textual Fusion Empowered Underwater Image Enhancement</a>" (accepted by <strong><i>Information Fusion</i></strong>), "<a href="https://ieeexplore.ieee.org/document/11159473" style="text-decoration: none;">Underwater Scene Clarity Reconstruction via Multilayer Information Fusion and Self-Organized Stitching</a>" (accepted by <strong><i>IEEE Transactions on Circuits and Systems for Video Technology</i></strong>), and "<a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197625019931" style="text-decoration: none;">A Comb Concatenation Diffusion Model for Hyperspectral Image Super-resolution</a>" (accepted by <strong><i>Engineering Applications of Artificial Intelligence</i></strong>) have been accepted for publication! 
@@ -118,6 +119,7 @@ redirect_from:
 
 # 🎖 Selected Honors and Awards
 - Apr. 2025, 🎖️<strong><a href="https://ieeexplore.ieee.org/document/10969974" target="_blank" style="text-decoration: none;">IEEE Journal of Oceanic Engineering's Outstanding Reviewers</a></strong>.
+
 
 
 
