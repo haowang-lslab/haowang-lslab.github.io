@@ -75,7 +75,7 @@ redirect_from:
 - Huanyu Li, <strong><u>Hao Wang</u></strong>, Ying Zhang, Li Li, and Peng Ren. Underwater image captioning: Challenges, models, and datasets. <strong><i>ISPRS Journal of Photogrammetry and Remote Sensing</i></strong>, 2025. [<strong style="color:red;">ESI Hot Paper & ESI Highly Cited Paper & ISPRS Featured Articles</strong>] <a href="https://www.sciencedirect.com/science/article/abs/pii/S0924271624004726" target="_blank"><font color="#1C86EE">[PDF]
 - Yinghao Xu, <strong><u>Hao Wang</u></strong>, Fei Zhou, Chunbo Luo, Xin Sun, Susanto Rahardja, and Peng Ren. MambaHSISR: Mamba Hyperspectral Image Super-Resolution. <strong><i>IEEE Transactions on Geoscience and Remote Sensing</i></strong>, 2025. <a href="https://ieeexplore.ieee.org/abstract/document/10965814" target="_blank"><font color="#1C86EE">[PDF]
 - Weibo Zhang, <strong><u>Hao Wang</u></strong>, Peng Ren, and Weidong Zhang. MACT: Underwater image color correction via Minimally Attenuated Channel Transfer. <strong><i>Pattern Recognition Letters</i></strong>, 2025. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167865524003131" target="_blank"><font color="#1C86EE">[PDF]
-- Huanyu Li, Li Li, <strong><u>Hao Wang</u></strong>, Weibo Zhang, and Peng Ren. Underwater Image Captioning with AquaSketch-Enhanced Cross-Scale Information Fusion. <strong><i>IEEE Transactions on Geoscience and Remote Sensing</i></strong>, 2025. <a href="https://ieeexplore.ieee.org/abstract/document/11062881" target="_blank"><font color="#1C86EE">[PDF]
+- Huanyu Li, Li Li, <strong><u>Hao Wang</u></strong>, Weibo Zhang, and Peng Ren. Underwater Image Captioning with AquaSketch-Enhanced Cross-Scale Information Fusion. <strong><i>IEEE Transactions on Geoscience and Remote Sensing</i></strong>, 2025. [<strong style="color:red;">ESI Highly Cited Paper</strong>] <a href="https://ieeexplore.ieee.org/abstract/document/11062881" target="_blank"><font color="#1C86EE">[PDF]
 - Ying Zhang, Huanyu Li, Bingyu Li, Li Li, Weibo Zhang, <strong><u>Hao Wang</u></strong>, and Peng Ren. An underwater acoustic semantic communication approach to underwater image transmission. <strong><i>Intelligent Marine Technology and Systems</i></strong>, 2025. <a href="https://link.springer.com/article/10.1007/s44295-025-00054-7" target="_blank"><font color="#1C86EE">[PDF]
 - Shixin Sun, <strong><u>Hao Wang</u></strong>, Hao Zhang, Mingjie Li, Ming Xiang, Cai Luo, and Peng Ren. Underwater Image Enhancement With Reinforcement Learning. <strong><i>IEEE Journal of Oceanic Engineering</i></strong>, 2024. [<strong style="color:red;">JOE Popular Articles</strong>] <a href="https://ieeexplore.ieee.org/abstract/document/9751218" target="_blank"><font color="#1C86EE">[PDF]
 - Weibo Zhang, <strong><u>Hao Wang</u></strong>, Peng Ren, and Weidong Zhang. Underwater Image Color Correction via Color Channel Transfer. <strong><i>IEEE Geoscience and Remote Sensing Letters</i></strong>, 2024. <a href="https://ieeexplore.ieee.org/abstract/document/10368090" target="_blank"><font color="#1C86EE">[PDF]
@@ -118,6 +118,7 @@ redirect_from:
 
 # 🎖 Selected Honors and Awards
 - Apr. 2025, 🎖️<strong><a href="https://ieeexplore.ieee.org/document/10969974" target="_blank" style="text-decoration: none;">IEEE Journal of Oceanic Engineering's Outstanding Reviewers</a></strong>.
+
 
 
 
