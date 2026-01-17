@@ -42,7 +42,7 @@ redirect_from:
 </div>
 
 # 🚀 News
-- Jan. 2026, 🎉Our works "<a href="https://link.springer.com/article/10.1007/s11263-025-02650-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20260117&utm_content=10.1007/s11263-025-02650-w" style="text-decoration: none;">Large Foundation Model Empowered Region-aware Underwater Image Captioning</a>" (accepted by <strong><i>International Journal of Computer Vision</i></strong>) has been accepted for publication! 
+- Jan. 2026, 🎉Our work "<a href="https://link.springer.com/article/10.1007/s11263-025-02650-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20260117&utm_content=10.1007/s11263-025-02650-w" style="text-decoration: none;">Large Foundation Model Empowered Region-aware Underwater Image Captioning</a>" (accepted by <strong><i>International Journal of Computer Vision</i></strong>) has been accepted for publication! 
 - Jan. 2026, 🏆Our work "<a href="https://ieeexplore.ieee.org/abstract/document/11062881" style="text-decoration: none;">Underwater Image Captioning with AquaSketch-Enhanced Cross-Scale Information Fusion</a>" (<strong><i>IEEE Transactions on Geoscience and Remote Sensing</i></strong>) has been newly selected as <strong style="color:red;">ESI Highly Cited Paper</strong>!
 - Nov. 2025, 🏆Our work "<a href="https://ieeexplore.ieee.org/abstract/document/10965814" style="text-decoration: none;">MambaHSISR: Mamba Hyperspectral Image Super-Resolution</a>" (<strong><i>IEEE Transactions on Geoscience and Remote Sensing</i></strong>) has been newly selected as <strong style="color:red;">ESI Highly Cited Paper</strong>!
 - Sep. 2025, 🔥Our work "<a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197624005694" style="text-decoration: none;">INSPIRATION: A reinforcement learning-based human visual perception-driven image enhancement paradigm for underwater scenes</a>" (<strong><i>Engineering Applications of Artificial Intelligence</i></strong>) has been newly selected as <strong style="color:red;">ESI Hot Paper</strong>!
@@ -121,6 +121,7 @@ redirect_from:
 
 # 🎖 Selected Honors and Awards
 - Apr. 2025, 🎖️<strong><a href="https://ieeexplore.ieee.org/document/10969974" target="_blank" style="text-decoration: none;">IEEE Journal of Oceanic Engineering's Outstanding Reviewers</a></strong>.
+
 
 
 
