@@ -102,7 +102,7 @@ redirect_from:
 - **2025 – Present**, Leading Guest Editor, Special Issue <a href="https://www.mdpi.com/journal/IoT/special_issues/H15AJ7O1UU" target="_blank" style="text-decoration: none;">*"Internet of Underwater Things (IoUT)*"</a>, *IoT*.
 - **2025 – Present**, Handling Editor, *Frontiers in Plant Science*.
   
-## 📝 Peer Review Experience (Reviewed over 300 manuscripts for more than 50 academic journals)
+## ✍️ Peer Review Experience (Reviewed over 500 manuscripts for more than 80 academic journals)
 ### 🔄**Continuous Reviewer** (2023 – Present) for:
 - *Information Fusion*
 - *ISPRS Journal of Photogrammetry and Remote Sensing*
@@ -124,8 +124,8 @@ redirect_from:
 - *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*
 - *...and more.*
 
-# 🎖 Selected Projects & Honors & Awards
--  Jul. 2026, 📜Young Scientists Fund (Class C), Shandong Provincial Natural Science Foundation.
+# 🚀 Selected Projects & Honors & Awards
+-  Jul. 2026, 🏛️Young Scientists Fund (Class C), Shandong Provincial Natural Science Foundation.
 -  Jun. 2026, 🎓Young Talent of Lifting engineering for Science and Technology in Shandong，China.
 -  Apr. 2025, 🎖️<strong><a href="https://ieeexplore.ieee.org/document/10969974" target="_blank" style="text-decoration: none;">IEEE Journal of Oceanic Engineering's Outstanding Reviewers</a></strong>.
 
