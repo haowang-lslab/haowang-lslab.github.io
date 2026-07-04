@@ -125,7 +125,8 @@ redirect_from:
 - *...and more.*
 
 # 🎖 Selected Projects & Honors & Awards
--  Jun. 2026, 🎖️Young Talent of Lifting engineering for Science and Technology in Shandong，China.
+-  Jul. 2026, 📄Young Scientists Fund (Class C), Shandong Provincial Natural Science Foundation.
+-  Jun. 2026, 🎓Young Talent of Lifting engineering for Science and Technology in Shandong，China.
 -  Apr. 2025, 🎖️<strong><a href="https://ieeexplore.ieee.org/document/10969974" target="_blank" style="text-decoration: none;">IEEE Journal of Oceanic Engineering's Outstanding Reviewers</a></strong>.
 
 
