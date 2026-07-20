@@ -99,11 +99,11 @@ redirect_from:
 
 # 🌍 Academic Services
 ## 👨‍💼 Editorial Roles
-- **2026 – Present**, Early-Career Editorial Board Member, *Artificial Intelligence & Autonomous Systems*.
-- **2026 – Present**, Early-Career Editorial Board Member, *Advanced Information and Communication*.
-- **2026 – Present**, Early-Career Editorial Board Member, *Digital*. 
+- **2026 – Present**, Early-Career Editorial Board Member, *<a href="https://www.elspub.com/journals/aias/home" target="_blank" style="text-decoration: none;">Artificial Intelligence & Autonomous Systems</a>*.
+- **2026 – Present**, Early-Career Editorial Board Member, *<a href="https://www.elspub.com/journals/aic/home" target="_blank" style="text-decoration: none;">Advanced Information and Communication</a>*.
+- **2026 – Present**, Early-Career Editorial Board Member, *<a href="https://www.mdpi.com/journal/digital" target="_blank" style="text-decoration: none;">Digital</a>*. 
 - **2025 – Present**, <a href="https://www.frontiersin.org/journals/imaging/editors" target="_blank" style="text-decoration: none;">Associate Editor</a>, *Frontiers in Imaging*.
-- **2025 – Present**, Leading Guest Editor, Special Issue <a href="https://www.mdpi.com/journal/IoT/special_issues/H15AJ7O1UU" target="_blank" style="text-decoration: none;">*"Internet of Underwater Things (IoUT)*"</a>, *IoT*.
+- **2025 – Present**, Leading Guest Editor, Special Issue <a href="https://www.mdpi.com/journal/IoT/special_issues/H15AJ7O1UU" target="_blank" style="text-decoration: none;">*"Internet of Underwater Things (IoUT)*"</a>, *<a href="https://www.mdpi.com/journal/IoT" target="_blank" style="text-decoration: none;">IoT</a>*.
 - **2025 – Present**, Handling Editor, *Frontiers in Plant Science*.
   
 ## ✍️ Peer Review Experience (Reviewed over 500 manuscripts for more than 80 academic journals)
