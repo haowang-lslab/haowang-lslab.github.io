@@ -99,12 +99,13 @@ redirect_from:
 
 # 🌍 Academic Services
 ## 👨‍💼 Editorial Roles
+- **2025 – Present**, Associate Editor, *<a href="https://www.frontiersin.org/journals/imaging" target="_blank" style="text-decoration: none;">Frontiers in Imaging</a>*.
+- **2025 – Present**, Leading Guest Editor, Special Issue <a href="https://www.mdpi.com/journal/IoT/special_issues/H15AJ7O1UU" target="_blank" style="text-decoration: none;">*"Internet of Underwater Things (IoUT)*"</a>, *<a href="https://www.mdpi.com/journal/IoT" target="_blank" style="text-decoration: none;">IoT</a>*.
 - **2026 – Present**, Early-Career Editorial Board Member, *<a href="https://www.sciltp.com/journals/ic/" target="_blank" style="text-decoration: none;">Intelligence & Control</a>*.
 - **2026 – Present**, Early-Career Editorial Board Member, *<a href="https://www.elspub.com/journals/aias/home" target="_blank" style="text-decoration: none;">Artificial Intelligence & Autonomous Systems</a>*.
 - **2026 – Present**, Early-Career Editorial Board Member, *<a href="https://www.elspub.com/journals/aic/home" target="_blank" style="text-decoration: none;">Advanced Information and Communication</a>*.
 - **2026 – Present**, Early-Career Editorial Board Member, *<a href="https://www.mdpi.com/journal/digital" target="_blank" style="text-decoration: none;">Digital</a>*. 
-- **2025 – Present**, Associate Editor, *<a href="https://www.frontiersin.org/journals/imaging" target="_blank" style="text-decoration: none;">Frontiers in Imaging</a>*.
-- **2025 – Present**, Leading Guest Editor, Special Issue <a href="https://www.mdpi.com/journal/IoT/special_issues/H15AJ7O1UU" target="_blank" style="text-decoration: none;">*"Internet of Underwater Things (IoUT)*"</a>, *<a href="https://www.mdpi.com/journal/IoT" target="_blank" style="text-decoration: none;">IoT</a>*.
+- **2026 – Present**, Handling Editor, *<a href="https://www.frontiersin.org/journals/marine-science" target="_blank" style="text-decoration: none;">Frontiers in Marine Science</a>*.
 - **2025 – Present**, Handling Editor, *<a href="https://www.frontiersin.org/journals/plant-science" target="_blank" style="text-decoration: none;">Frontiers in Plant Science</a>*.
   
 ## ✍️ Peer Review Experience (Reviewed over 500 manuscripts for more than 80 academic journals)
