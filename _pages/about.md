@@ -106,6 +106,7 @@ redirect_from:
 - **2026 – Present**, Early-Career Editorial Board Member, *<a href="https://www.elspub.com/journals/aic/home" target="_blank" style="text-decoration: none;">Advanced Information and Communication</a>*.
 - **2026 – Present**, Early-Career Editorial Board Member, *<a href="https://www.mdpi.com/journal/digital" target="_blank" style="text-decoration: none;">Digital</a>*. 
 - **2026 – Present**, Handling Editor, *<a href="https://www.frontiersin.org/journals/marine-science" target="_blank" style="text-decoration: none;">Frontiers in Marine Science</a>*.
+- **2026 – Present**, Handling Editor, *<a href="https://www.frontiersin.org/journals/robotics-and-ai" target="_blank" style="text-decoration: none;">Frontiers in Robotics and AI</a>*.
 - **2025 – Present**, Handling Editor, *<a href="https://www.frontiersin.org/journals/plant-science" target="_blank" style="text-decoration: none;">Frontiers in Plant Science</a>*.
   
 ## ✍️ Peer Review Experience (Reviewed over 500 manuscripts for more than 80 academic journals)
