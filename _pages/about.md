@@ -135,5 +135,6 @@ redirect_from:
 
 # 🚀 Selected Projects and Honors
 -  Jul. 2026, 📋Young Scientists Fund (Class C), Shandong Provincial Natural Science Foundation.
+-  May  2026, 📋Young Scientists Fund, Qingdao Natural Science Foundation.
 -  Jun. 2026, 🏆Young Talent of Lifting engineering for Science and Technology in Shandong.
 -  Apr. 2025, 🎖️<strong><a href="https://ieeexplore.ieee.org/document/10969974" target="_blank" style="text-decoration: none;">IEEE Journal of Oceanic Engineering's Outstanding Reviewers</a></strong>.
