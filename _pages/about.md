@@ -136,6 +136,7 @@ redirect_from:
 - *...and more.*
 
 # 🚀 Selected Projects and Honors
+-  Jan. 2027, 📋Young Scientists Fund (Class C), National Natural Science Foundation of China.
 -  Jul. 2026, 📋Young Scientists Fund (Class C), Shandong Provincial Natural Science Foundation.
 -  May  2026, 📋Young Scientists Fund, Qingdao Natural Science Foundation.
 -  Jun. 2026, 🏆Young Talent of Lifting engineering for Science and Technology in Shandong.
