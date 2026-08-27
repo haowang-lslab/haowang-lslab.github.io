@@ -103,6 +103,7 @@ redirect_from:
 - **2025 – Present**, Leading Guest Editor, Special Issue <a href="https://www.mdpi.com/journal/IoT/special_issues/H15AJ7O1UU" target="_blank" style="text-decoration: none;">*"Internet of Underwater Things (IoUT)*"</a>, *<a href="https://www.mdpi.com/journal/IoT" target="_blank" style="text-decoration: none;">IoT</a>*.
 - **2026 – Present**, Editorial Board Member, *<a href="https://link.springer.com/journal/44584" target="_blank" style="text-decoration: none;">Discover Computer Vision</a>*. 
 - **2026 – Present**, Early-Career Editorial Board Member, *<a href="https://www.the-innovation.org/the-innovation-insights" target="_blank" style="text-decoration: none;">The Innovation Insights</a>*. 
+- **2026 – Present**, Early-Career Editorial Board Member, *<a href="https://www.mdpi.com/journal/mti" target="_blank" style="text-decoration: none;">Multimodal Technologies and Interaction</a>*. 
 - **2026 – Present**, Early-Career Editorial Board Member, *<a href="https://www.mdpi.com/journal/BDCC" target="_blank" style="text-decoration: none;">Big Data and Cognitive Computing</a>*. 
 - **2026 – Present**, Early-Career Editorial Board Member, *<a href="https://www.mdpi.com/journal/digital" target="_blank" style="text-decoration: none;">Digital</a>*. 
 - **2026 – Present**, Early-Career Editorial Board Member, *<a href="https://www.sciltp.com/journals/ic/" target="_blank" style="text-decoration: none;">Intelligence & Control</a>*.
