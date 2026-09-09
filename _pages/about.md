@@ -108,6 +108,7 @@ redirect_from:
 - **2026 – Present**, Early-Career Editorial Board Member, *<a href="https://www.mdpi.com/journal/BDCC" target="_blank" style="text-decoration: none;">Big Data and Cognitive Computing</a>*. 
 - **2026 – Present**, Early-Career Editorial Board Member, *<a href="https://www.mdpi.com/journal/digital" target="_blank" style="text-decoration: none;">Digital</a>*.
 - **2026 – Present**, Early-Career Editorial Board Member, *<a href="https://ojs.bonviewpress.com/index.php/jdsis/index" target="_blank" style="text-decoration: none;">Journal of Data Science and Intelligent Systems</a>*.
+- **2026 – Present**, Early-Career Editorial Board Member, *<a href="https://www.oaepublish.com/aiagent" target="_blank" style="text-decoration: none;">AI Agent</a>*.
 - **2026 – Present**, Early-Career Editorial Board Member, *<a href="https://www.sciltp.com/journals/ic/" target="_blank" style="text-decoration: none;">Intelligence & Control</a>*.
 - **2026 – Present**, Early-Career Editorial Board Member, *<a href="https://www.elspub.com/journals/aias/home" target="_blank" style="text-decoration: none;">Artificial Intelligence & Autonomous Systems</a>*.
 - **2026 – Present**, Early-Career Editorial Board Member, *<a href="https://www.elspub.com/journals/aic/home" target="_blank" style="text-decoration: none;">Advanced Information and Communication</a>*.
