@@ -99,7 +99,7 @@ redirect_from:
 - 2013 - 2017, BEng in Automation, Qingdao University of Technology, China.
 
 # 🌍 Academic Services
-## 👨‍💼 Editorial Roles
+## 👨‍💼 Journal Editorial Roles
 - **2025 – Present**, Associate Editor, *<a href="https://www.frontiersin.org/journals/imaging" target="_blank" style="text-decoration: none;">Frontiers in Imaging</a>*.
 - **2026 – Present**, Leading Guest Editor, Special Issue <a href="https://www.mdpi.com/journal/IoT/special_issues/H15AJ7O1UU" target="_blank" style="text-decoration: none;">*"Advances in Underwater Image Processing and Analysis*"</a>, *<a href="https://www.mdpi.com/journal/jimaging" target="_blank" style="text-decoration: none;">Journal of Imaging</a>*.
 - **2025 – Present**, Guest Editor, Special Issue <a href="https://www.mdpi.com/journal/IoT/special_issues/H15AJ7O1UU" target="_blank" style="text-decoration: none;">*"Internet of Underwater Things (IoUT)*"</a>, *<a href="https://www.mdpi.com/journal/IoT" target="_blank" style="text-decoration: none;">IoT</a>*.
@@ -117,7 +117,10 @@ redirect_from:
 - **2026 – Present**, Handling Editor, *<a href="https://www.frontiersin.org/journals/marine-science" target="_blank" style="text-decoration: none;">Frontiers in Marine Science</a>*.
 - **2026 – Present**, Handling Editor, *<a href="https://www.frontiersin.org/journals/robotics-and-ai" target="_blank" style="text-decoration: none;">Frontiers in Robotics and AI</a>*.
 - **2025 – Present**, Handling Editor, *<a href="https://www.frontiersin.org/journals/plant-science" target="_blank" style="text-decoration: none;">Frontiers in Plant Science</a>*.
-  
+
+## 👥 Conference Program Committee Roles
+- **2026**, Technical Program Committee, *<a href="https://www.lmagi.org/" target="_blank" style="text-decoration: none;">International Conference on Large Models and Artificial General Intelligence</a>*.
+
 ## ✍️ Peer Review Experience (Reviewed over 500 manuscripts for more than 80 academic journals)
 ### 🔄**Continuous Reviewer** (2023 – Present) for:
 - *Information Fusion*
