@@ -106,7 +106,8 @@ redirect_from:
 - **2026 – Present**, Editorial Board Member, *<a href="https://link.springer.com/journal/44584" target="_blank" style="text-decoration: none;">Discover Computer Vision</a>*. 
 - **2026 – Present**, Early-Career Editorial Board Member, *<a href="https://www.the-innovation.org/the-innovation-insights" target="_blank" style="text-decoration: none;">The Innovation Insights</a>*. 
 - **2026 – Present**, Early-Career Editorial Board Member, *<a href="https://www.mdpi.com/journal/mti" target="_blank" style="text-decoration: none;">Multimodal Technologies and Interaction</a>*. 
-- **2026 – Present**, Early-Career Editorial Board Member, *<a href="https://www.mdpi.com/journal/BDCC" target="_blank" style="text-decoration: none;">Big Data and Cognitive Computing</a>*. 
+- **2026 – Present**, Early-Career Editorial Board Member, *<a href="https://www.mdpi.com/journal/BDCC" target="_blank" style="text-decoration: none;">Big Data and Cognitive Computing</a>*.
+- **2026 – Present**, Early-Career Editorial Board Member, *<a href="https://www.mdpi.com/journal/technologies" target="_blank" style="text-decoration: none;">Technologies</a>*.
 - **2026 – Present**, Early-Career Editorial Board Member, *<a href="https://www.mdpi.com/journal/digital" target="_blank" style="text-decoration: none;">Digital</a>*.
 - **2026 – Present**, Early-Career Editorial Board Member, *<a href="https://ojs.bonviewpress.com/index.php/jdsis/index" target="_blank" style="text-decoration: none;">Journal of Data Science and Intelligent Systems</a>*.
 - **2026 – Present**, Early-Career Editorial Board Member, *<a href="https://www.oaepublish.com/aiagent" target="_blank" style="text-decoration: none;">AI Agent</a>*.
